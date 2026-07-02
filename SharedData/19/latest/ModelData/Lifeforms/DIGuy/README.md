@@ -3,7 +3,7 @@
 ##    DI-Guy 캐릭터 리소스
 -----
 ### 기본 Human Entity 리소스 경로   
-###  : (SharedData)/19/latest/ModelData/Lifeforms/DIGuy  
+###  → (SharedData)/19/latest/ModelData/Lifeforms/DIGuy  
 
 #### Folder  
 #### 1. config   
@@ -18,7 +18,7 @@
 >    :  Custom 리소스(캐릭터, 무기, 도구 등) Config  
 >  - config  
 >    : Custom 리소스(캐릭터, 무기, 도구 등) Config  
->>  - motion  
+>  - motion  
 >    : Custom 리소스(캐릭터, 무기, 도구 등) Config  
 
  3. geometry  
