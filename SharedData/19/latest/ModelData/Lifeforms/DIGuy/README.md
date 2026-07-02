@@ -8,10 +8,9 @@
 #### Folder  
 #### 1. config   
 >  - diguy/char_soldier_17_action_table.cfg  
->
->  : Custom 애니메이션, 제스처 파일(bdm)추가   
->    char_soldier_17 타입의 객체들이 사용할 동작이 정리된 config    
->      * ROK 수신호, 애니메이션 추가
+>    : Custom 애니메이션, 제스처 파일(bdm)추가   
+>      char_soldier_17 타입의 객체들이 사용할 동작이 정리된 config    
+>         * ROK 수신호, 애니메이션 추가
 
  2. custom  
 >  - config  
