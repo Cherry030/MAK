@@ -1,0 +1,130 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NessLabPlugins", "NessLabPlugins", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabTerrainSurfaceSim", "nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\nesslabTerrainSurfacePlugins.vcxproj", "{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabHapticDIS", "nesslabHapticPlugin\nesslabHapticDIS.vcxproj", "{18394760-9536-3D70-8C33-CD9AD984C1F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabSkeletonPluginDIS", "nesslabSkeletonPlugin\nesslabSkeletonPluginDIS.vcxproj", "{2FDCC2F3-9468-32EC-9548-88876F944CF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabSkeleton", "nesslabSkeletonPlugin\nesslabSkeletonPluginHLA1516e.vcxproj", "{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_VREngageFrontEnd", "0_VREngageFrontEnd", "{C32738A1-75CC-44AA-996E-7A5CC372C040}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_VREngageBackEnd", "1_VREngageBackEnd", "{022CF36F-60CA-4DFE-9581-F73982F1F73E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabWeaponControlDIS", "nesslabWeaponControlPlugins\nesslabWeaponControlDIS.vcxproj", "{A4B4968E-B665-413A-84C1-5C558C0FE635}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabWeaponControl", "nesslabWeaponControlPlugins\nesslabWeaponControlHLA1516e.vcxproj", "{91B849AC-95F8-43AB-AA5C-6A68BF489E70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabHumanMovementDIS", "nesslabHumanMovementPlugins\nesslabHumanMovementDIS.vcxproj", "{10D9F599-4031-42F8-A4EF-185C75DBC6D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabHumanMovement", "nesslabHumanMovementPlugins\nesslabHumanMovementHLA1516e.vcxproj", "{718C855D-C173-4B4C-A78D-6E55D1B00563}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "old", "old", "{98C9E3DB-041E-4E03-9A4F-06078EF04B2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabTITSPlugin", "nesslabTITSPlugin\nesslabTITSPlugin.vcxproj", "{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabRFIDPlugin", "nesslabRFIDPlugin\nesslabRFIDPlugin.vcxproj", "{4907D037-C6D9-4795-8469-F5B65F355261}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabFrontEndPlugins", "nesslabFrontEndPlugins\nesslabFrontEndPlugins.vcxproj", "{DC6F675B-C48C-3118-8AF3-9868A8DB459C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabDeviceStatePlugin", "nesslabDeviceStatePlugin\nesslabDeviceStatePlugin.vcxproj", "{AD3B0CB1-8501-4419-A503-10889A4DB6D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabHandposePluginHLA1516e", "nesslabHandposePlugin\nesslabHandposePluginHLA1516e.vcxproj", "{D4D0CF53-A690-4AFB-8808-88F968E84BBA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nesslabHapticHLA1516e", "nesslabHapticPlugin\nesslabHapticHLA1516e.vcxproj", "{5B140DD5-D2B2-3000-BAAA-18DC1748B69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+		Unoptimized|x64 = Unoptimized|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{18394760-9536-3D70-8C33-CD9AD984C1F1}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{18394760-9536-3D70-8C33-CD9AD984C1F1}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{18394760-9536-3D70-8C33-CD9AD984C1F1}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{18394760-9536-3D70-8C33-CD9AD984C1F1}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{2FDCC2F3-9468-32EC-9548-88876F944CF3}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{2FDCC2F3-9468-32EC-9548-88876F944CF3}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{2FDCC2F3-9468-32EC-9548-88876F944CF3}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{2FDCC2F3-9468-32EC-9548-88876F944CF3}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{A4B4968E-B665-413A-84C1-5C558C0FE635}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{A4B4968E-B665-413A-84C1-5C558C0FE635}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{A4B4968E-B665-413A-84C1-5C558C0FE635}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{A4B4968E-B665-413A-84C1-5C558C0FE635}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{91B849AC-95F8-43AB-AA5C-6A68BF489E70}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{91B849AC-95F8-43AB-AA5C-6A68BF489E70}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{91B849AC-95F8-43AB-AA5C-6A68BF489E70}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{91B849AC-95F8-43AB-AA5C-6A68BF489E70}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{10D9F599-4031-42F8-A4EF-185C75DBC6D3}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{10D9F599-4031-42F8-A4EF-185C75DBC6D3}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{10D9F599-4031-42F8-A4EF-185C75DBC6D3}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{10D9F599-4031-42F8-A4EF-185C75DBC6D3}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{718C855D-C173-4B4C-A78D-6E55D1B00563}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{718C855D-C173-4B4C-A78D-6E55D1B00563}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{718C855D-C173-4B4C-A78D-6E55D1B00563}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{718C855D-C173-4B4C-A78D-6E55D1B00563}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{4907D037-C6D9-4795-8469-F5B65F355261}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{4907D037-C6D9-4795-8469-F5B65F355261}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{4907D037-C6D9-4795-8469-F5B65F355261}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{4907D037-C6D9-4795-8469-F5B65F355261}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{DC6F675B-C48C-3118-8AF3-9868A8DB459C}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{DC6F675B-C48C-3118-8AF3-9868A8DB459C}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{DC6F675B-C48C-3118-8AF3-9868A8DB459C}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{DC6F675B-C48C-3118-8AF3-9868A8DB459C}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{AD3B0CB1-8501-4419-A503-10889A4DB6D6}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{AD3B0CB1-8501-4419-A503-10889A4DB6D6}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{AD3B0CB1-8501-4419-A503-10889A4DB6D6}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{AD3B0CB1-8501-4419-A503-10889A4DB6D6}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{D4D0CF53-A690-4AFB-8808-88F968E84BBA}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{D4D0CF53-A690-4AFB-8808-88F968E84BBA}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{D4D0CF53-A690-4AFB-8808-88F968E84BBA}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{D4D0CF53-A690-4AFB-8808-88F968E84BBA}.Unoptimized|x64.Build.0 = Unoptimized|x64
+		{5B140DD5-D2B2-3000-BAAA-18DC1748B69E}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{5B140DD5-D2B2-3000-BAAA-18DC1748B69E}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{5B140DD5-D2B2-3000-BAAA-18DC1748B69E}.Unoptimized|x64.ActiveCfg = Unoptimized|x64
+		{5B140DD5-D2B2-3000-BAAA-18DC1748B69E}.Unoptimized|x64.Build.0 = Unoptimized|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{690B37F4-6D6C-3F2C-B2A8-72F1A22AEB20} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{18394760-9536-3D70-8C33-CD9AD984C1F1} = {98C9E3DB-041E-4E03-9A4F-06078EF04B2E}
+		{2FDCC2F3-9468-32EC-9548-88876F944CF3} = {98C9E3DB-041E-4E03-9A4F-06078EF04B2E}
+		{08CFFC2E-13BA-3BCE-962C-C1A1A2FC51EE} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{C32738A1-75CC-44AA-996E-7A5CC372C040} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
+		{022CF36F-60CA-4DFE-9581-F73982F1F73E} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
+		{A4B4968E-B665-413A-84C1-5C558C0FE635} = {98C9E3DB-041E-4E03-9A4F-06078EF04B2E}
+		{91B849AC-95F8-43AB-AA5C-6A68BF489E70} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{10D9F599-4031-42F8-A4EF-185C75DBC6D3} = {98C9E3DB-041E-4E03-9A4F-06078EF04B2E}
+		{718C855D-C173-4B4C-A78D-6E55D1B00563} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{98C9E3DB-041E-4E03-9A4F-06078EF04B2E} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{133F2FB2-4D19-4203-94EB-FAB4B7EE6B40} = {C32738A1-75CC-44AA-996E-7A5CC372C040}
+		{4907D037-C6D9-4795-8469-F5B65F355261} = {C32738A1-75CC-44AA-996E-7A5CC372C040}
+		{DC6F675B-C48C-3118-8AF3-9868A8DB459C} = {C32738A1-75CC-44AA-996E-7A5CC372C040}
+		{AD3B0CB1-8501-4419-A503-10889A4DB6D6} = {C32738A1-75CC-44AA-996E-7A5CC372C040}
+		{D4D0CF53-A690-4AFB-8808-88F968E84BBA} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+		{5B140DD5-D2B2-3000-BAAA-18DC1748B69E} = {022CF36F-60CA-4DFE-9581-F73982F1F73E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEEDB290-AF11-33A1-83D2-C06403B492BC}
+	EndGlobalSection
+EndGlobal

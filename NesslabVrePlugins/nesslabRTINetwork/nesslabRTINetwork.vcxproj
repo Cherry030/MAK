@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="nesslabHandpose|x64">
+      <Configuration>nesslabHandpose</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="nesslaHandpose|x64">
+      <Configuration>nesslaHandpose</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Unoptimized|x64">
+      <Configuration>Unoptimized</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1E7602B3-2783-42D0-8279-AE9BF97D82DC}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>nesslabRTINetwork</ProjectName>
+    <CudaToolkitCustomDir>D:/engineering-mirror/3rdParty/libraries/CUDA/11.7/win64/</CudaToolkitCustomDir>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='nesslaHandpose|x64'">
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(MAK_VREDIR)\plugins64\vrForces\release\release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">..\..\plugins64\vrForces\release\release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabRTINetwork.dir/RelWithDebInfo/</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">nesslabRTINetwork.dir/RelWithDebInfo/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabRTINetwork</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">nesslabRTINetwork</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">..\..\plugins64\vrForces\release\unoptimized\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">nesslabHandposePlugin.dir/Unoptimized/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">nesslabHandposePlugin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_RTIDIR)/include/HLA1516E;$(MAK_VRFDIR)/include;$(MAK_VRFDIR)/include/vrfobjcore;$(MAK_VRFDIR)/include/vrvDiGuy;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;E:\MAK\DI-Guy\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="RelWithDebInfo";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"RelWithDebInfo/";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>
+
+
+setlocal
+xcopy "$(TargetPath)" "$(MAK_VREDIR)\plugins64\vrForces\release" /y /q
+if %errorlevel% neq 0 goto :cmEnd
+
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+
+:cmErrorLevel
+exit /b %1
+
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreUtil.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;--vl.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;vrvDiGuy.lib;NesslabCommon.lib;--libdiguy_x64_vc15_1371d.lib;libdiguy_x64_vc15_1371.lib;vrfStateData.lib;vreVrfmodel.lib;librti1516e64d.lib;ws2_32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_RTIDIR)/lib/$(Configuration);$(MAK_RTIDIR)/lib;$(MAK_VREDIR)\lib64;$(MAK_VREDIR)\lib64\diguy;$(MAK_VRFDIR)\lib64\boost_143\lib;$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib64;/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);$(MAK_DIGUYDIR)/lib64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/nesslabHandposePlugin/build64/RelWithDebInfo/nesslabHandposePlugin.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/RelWithDebInfo/nesslabHandposePlugin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='nesslabHandpose|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRFDIR)/include/vrfobjcore;$(MAK_VRFDIR)/include/vrvDiGuy;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;E:\MAK\DI-Guy\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="RelWithDebInfo";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"RelWithDebInfo/";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreUtil.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;vl.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;vrvDiGuy.lib;libdiguy_x64_vc15_1371d.lib;--vlHLA1516e.lib;--vrfExtObjectsHLA1516e.lib;--vrlinkNetworkInterfaceHLA1516e.lib;NesslabCommon.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib64;/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);$(MAK_DIGUYDIR)/lib64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/nesslabHandposePlugin/build64/RelWithDebInfo/nesslabHandposePlugin.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/RelWithDebInfo/nesslabHandposePlugin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="Unoptimized";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"Unoptimized/";nesslabHandposePlugin_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreUtil.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;vl.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib64;/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);/lib64;/lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/nesslabHandposePlugin/build64/Unoptimized/nesslabHandposePlugin.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/Unoptimized/nesslabHandposePlugin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="rtiNetworkPlugin.cxx" />
+    <ClCompile Include="plugin.cxx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rtiNetworkPlugin.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

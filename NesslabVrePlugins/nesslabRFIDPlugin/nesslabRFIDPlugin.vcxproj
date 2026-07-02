@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Unoptimized|x64">
+      <Configuration>Unoptimized</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4907D037-C6D9-4795-8469-F5B65F355261}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>nesslabRFIDPlugin</ProjectName>
+    <CudaToolkitCustomDir>D:/engineering-mirror/3rdParty/libraries/CUDA/11.7/win64/</CudaToolkitCustomDir>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">..\..\NesslabVrePlugins\plugins\release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabRFIDPlugin.dir/RelWithDebInfo/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabRFIDPlugin</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">..\..\examples\plugins\unoptimized\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleNotify.dir/Unoptimized/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleNotify</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VREDIR)/include;$(MAK_VREDIR)/include\Nesslab;$(MAK_VREDIR)/include/framework;$(MAK_VREDIR)/include/commonRoleLibraries;$(MAK_VREDIR)/include/roles/human;$(MAK_VREDIR)/include/utilities;$(MAK_VREDIR)/include/vrfExtensions;$(MAK_VREDIR)/include/vrvExtensions;$(MAK_RTIDIR)\include;$(MAK_RTIDIR)\include\HLA1516E;$(MAK_RTIDIR)\include\HLA1516E\RTI;$(MAK_VRLDIR)\include;$(MAK_VRVDIR)\include;$(MAK_VRVDIR)\packages\makVrfVrlinkExtToolkit\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="RelWithDebInfo";nesslabRFID_EXPORTS;DtHLA=1;DtHLA_1516=1;DtHLA_1516_EVOLVED=1;RTI_USES_STD_FSTREAM=1</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"RelWithDebInfo/";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\plugins /y /q /I
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\plugins /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+xcopy /Y "$(TargetPath)" "$(MAK_VREDIR)\plugins64\vrEngage\release"</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreUtil.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;vl.lib;vrvCore.lib;vreMessageManager.lib;vreMessages.lib;vrePlayerStation.lib;vreCommonComponents.lib;vreHumanFrontend.lib;vrvVirtualReality.lib;vrvVirtualRealityController.lib;Qt5Core.lib;Qt5Quick.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;NesslabCommon.lib;------------------------------------------------;vrvHla1516e.lib;vlHLA1516E.lib;vrvUtil.lib;makArchives.lib;-----new;vrlinkNetworkInterfaceHLA1516e.lib;libfedtime1516e64d.lib;librti1516e64d.lib;vlHLA1516ed.lib;vrfcgf.lib;mtl.lib;vlHLA1516e.lib;libfedtime1516e64.lib;librti1516e64.lib;vrfExtProtocol.lib;vrfExtObjectsHLA1516e.lib;vrfExtendedPropertiesHLA1516e.lib;tdbutil.lib;vlutild.lib;matrixd.lib;mtld.lib;vld.lib;ws2_32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VRFDIR)\lib64\boost_143\lib;$(QTDIR)/lib;$(QTDIR)/lib/$(Configuration);$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);$(MAK_VREDIR)/lib64;$(MAK_VREDIR)/lib64/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);$(MAK_RTIDIR)\lib;$(MAK_VRVDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../nesslabRFIDPlugin/nesslabRFIDPluginFrontendbuild64/RelWithDebInfo/exampleNotify.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\NesslabVrePlugins\bin64/RelWithDebInfo/nesslabRFIDPlugin.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="Unoptimized";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"Unoptimized/";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\plugins /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\plugins /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>Qt5Gui.lib;Qt5Core.lib;Qt5Widgets.lib;vrvCore.lib;vreHumanFrontend.lib;vrvVirtualReality.lib;readerWriter.lib;vlutil.lib;matrix.lib;vreCommonComponents.lib;vrePlayerStation.lib;vreMessages.lib;vrvVirtualRealityController.lib;vreMessageManager.lib;vreUtil.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(QTDIR)/lib;$(QTDIR)/lib/$(Configuration);$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib64;/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/exampleNotification/build64/Unoptimized/exampleNotify.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/Unoptimized/exampleNotify.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="rfidAccessory.h" />
+    <ClInclude Include="export.h" />
+    <ClInclude Include="extLogInInfo.h" />
+    <ClInclude Include="extLogInInfoDecoder.h" />
+    <ClInclude Include="extLogInInfoEncoder.h" />
+    <ClInclude Include="rfidPlugin.h" />
+    <ClInclude Include="loginFom.h" />
+    <ClInclude Include="MyAccessory.h" />
+    <ClInclude Include="MyNetType.h" />
+    <ClInclude Include="plugin.h" />
+    <ClInclude Include="TCPClass.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="extLogInInfo.cpp" />
+    <ClCompile Include="extLogInInfoDecoder.cpp" />
+    <ClCompile Include="extLogInInfoEncoder.cpp" />
+    <ClCompile Include="rfidPlugin.cxx" />
+    <ClCompile Include="loginFom.cxx" />
+    <ClCompile Include="plugin.cxx" />
+    <ClCompile Include="TCPClass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyAccessory.inl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

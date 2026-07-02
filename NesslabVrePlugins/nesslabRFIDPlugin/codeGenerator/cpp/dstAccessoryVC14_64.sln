@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dstAccessory", "dstAccessoryVC14_64.vcxproj", "{66645E0C-9D70-474D-9206-AB3F8655E18D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{500EA0A9-BB35-449B-A0EF-3D5BAE27438A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogInInfoInterTalk", "Examples\LogInInfoInter\LogInInfoInterTalkVC14_64.vcxproj", "{15a174a2-bf78-4cf1-b5a3-a3c0b26ad4a6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66645E0C-9D70-474D-9206-AB3F8655E18D} = {66645E0C-9D70-474D-9206-AB3F8655E18D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogInInfoInterListen", "Examples\LogInInfoInter\LogInInfoInterListenVC14_64.vcxproj", "{9430fd26-40b5-497f-b051-da546dc0206a}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66645E0C-9D70-474D-9206-AB3F8655E18D} = {66645E0C-9D70-474D-9206-AB3F8655E18D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerCtrlInterTalk", "Examples\PowerCtrlInter\PowerCtrlInterTalkVC14_64.vcxproj", "{d00e6a6e-55cb-43cc-a383-eb1778230b8a}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66645E0C-9D70-474D-9206-AB3F8655E18D} = {66645E0C-9D70-474D-9206-AB3F8655E18D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerCtrlInterListen", "Examples\PowerCtrlInter\PowerCtrlInterListenVC14_64.vcxproj", "{69e57926-e0a4-4458-92cd-392bb33b342f}"
+	ProjectSection(ProjectDependencies) = postProject
+		{66645E0C-9D70-474D-9206-AB3F8655E18D} = {66645E0C-9D70-474D-9206-AB3F8655E18D}
+	EndProjectSection
+EndProject
+
+Global
+	GlobalSection(NestedProjects) = preSolution
+		{15a174a2-bf78-4cf1-b5a3-a3c0b26ad4a6} = {500EA0A9-BB35-449B-A0EF-3D5BAE27438A}
+		{9430fd26-40b5-497f-b051-da546dc0206a} = {500EA0A9-BB35-449B-A0EF-3D5BAE27438A}
+		{d00e6a6e-55cb-43cc-a383-eb1778230b8a} = {500EA0A9-BB35-449B-A0EF-3D5BAE27438A}
+		{69e57926-e0a4-4458-92cd-392bb33b342f} = {500EA0A9-BB35-449B-A0EF-3D5BAE27438A}
+
+	EndGlobalSection
+EndGlobal

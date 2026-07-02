@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ActionPlugin.cpp" />
+    <ClCompile Include="ScreenWindowPlugin.cpp" />
+    <ClCompile Include="WeaponPosePlugin.cpp" />
+    <ClCompile Include="TDMMovePlugin.cpp" />
+    <ClCompile Include="WeaponPlugin.cpp" />
+    <ClCompile Include="../../examples/exampleNotification/plugin.cxx" />
+    <ClCompile Include="RFIDPlugin.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="../../examples/exampleNotification/export.h" />
+    <ClInclude Include="../../examples/exampleNotification/plugin.h" />
+    <ClInclude Include="ActionPlugin.h" />
+    <ClInclude Include="ScreenWindowPlugin.h" />
+    <ClInclude Include="WeaponPosePlugin.h" />
+    <ClInclude Include="TDMMovePlugin.h" />
+    <ClInclude Include="WeaponPlugin.h" />
+    <ClInclude Include="RFIDPlugin.h" />
+    <ClInclude Include="pluginBase.h" />
+  </ItemGroup>
+</Project>

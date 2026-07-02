@@ -1,0 +1,6 @@
+﻿  vreAccessoryTemplatePlugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+     C:\MAK\vrengage2.2\NesslabVrePlugins\dstNetworkPlugin\cursor\build\RelWithDebInfo\vreAccessoryTemplate.lib 라이브러리 및 C:\MAK\vrengage2.2\NesslabVrePlugins\dstNetworkPlugin\cursor\build\RelWithDebInfo\vreAccessoryTemplate.exp 개체를 생성하고 있습니다.
+  vreAccessoryTemplate.vcxproj -> C:\MAK\vrengage2.2\NesslabVrePlugins\dstNetworkPlugin\cursor\build\RelWithDebInfo\vreAccessoryTemplate.dll
+  C:\MAK\vrengage2.2\NesslabVrePlugins\dstNetworkPlugin\cursor\build\RelWithDebInfo\vreAccessoryTemplate.dll
+  1개 파일이 복사되었습니다.

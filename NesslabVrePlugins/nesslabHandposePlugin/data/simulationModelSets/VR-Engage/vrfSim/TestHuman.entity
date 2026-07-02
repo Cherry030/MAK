@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simObjects entityVersion="1.0">
+   <simObject objectType="1:3:1:225:1:41:1:2" matchType="1:3:1:225:1:41:1:2" platform="@(platforms-dir)/Human.ope" parentFile="US_Army_M4.entity">
+      <DtSimArtPartDescriptorList paramName="articulated-parts">
+         <DtSimArtPartDescriptor paramName="art-part-AnkleLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10688</int>
+            <int paramName="parent-part-type">10624</int>
+            <string paramName="comment">Left Ankle</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-AnkleRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10720</int>
+            <int paramName="parent-part-type">10656</int>
+            <string paramName="comment">Right Ankle</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-Back">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10304</int>
+            <int paramName="parent-part-type">10272</int>
+            <string paramName="comment">Back</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-Base">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10272</int>
+            <int paramName="parent-part-type">-1</int>
+            <string paramName="comment">Base</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-Cervical">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10336</int>
+            <int paramName="parent-part-type">10304</int>
+            <string paramName="comment">Cervical</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-ElbowLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10432</int>
+            <int paramName="parent-part-type">10368</int>
+            <string paramName="comment">Left Elbow</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-ElbowRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10464</int>
+            <int paramName="parent-part-type">10400</int>
+            <string paramName="comment">Right Elbow</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-HipLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10560</int>
+            <int paramName="parent-part-type">10272</int>
+            <string paramName="comment">Left Hip</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-HipRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10592</int>
+            <int paramName="parent-part-type">10272</int>
+            <string paramName="comment">Right Hip</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-KneeLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10624</int>
+            <int paramName="parent-part-type">10560</int>
+            <string paramName="comment">Left Knee</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-KneeRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10656</int>
+            <int paramName="parent-part-type">10592</int>
+            <string paramName="comment">Right Knee</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-ShoulderLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10368</int>
+            <int paramName="parent-part-type">10304</int>
+            <string paramName="comment">Left Shoulder</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-ShoulderRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10400</int>
+            <int paramName="parent-part-type">10304</int>
+            <string paramName="comment">Right Shoulder</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-WristLeft">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10496</int>
+            <int paramName="parent-part-type">10432</int>
+            <string paramName="comment">Left Wrist</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="art-part-WristRight">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-param">11</int>
+               <int paramName="part-param">12</int>
+               <int paramName="part-param">13</int>
+               <int paramName="part-param">14</int>
+               <int paramName="part-param">15</int>
+               <int paramName="part-param">16</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10528</int>
+            <int paramName="parent-part-type">10464</int>
+            <string paramName="comment">Right Wrist</string>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="gun-actuator--1">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-type">11</int>
+               <int paramName="part-type">12</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="-1"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="-1.5"/>
+            <int paramName="art-part-type">6016</int>
+            <int paramName="parent-part-type">-1</int>
+            <real paramName="azimuth">0</real>
+            <real paramName="azimuth-neutral-offset">0</real>
+            <real paramName="azimuth-rate">0</real>
+            <real paramName="max-azimuth">6.28318530718</real>
+            <real paramName="max-azimuth-rate">628.318530718</real>
+            <real paramName="min-azimuth">-6.28318530718</real>
+            <string paramName="comment"/>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="primary-gun-10240">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="part-type">11</int>
+               <int paramName="part-type">12</int>
+               <int paramName="part-type">13</int>
+               <int paramName="part-type">14</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0" right="0" down="0"/>
+            <bodyPosition paramName="end-point" forward="0" right="0" down="0"/>
+            <int paramName="art-part-type">10240</int>
+            <int paramName="parent-part-type">-1</int>
+            <real paramName="azimuth">0</real>
+            <real paramName="azimuth-neutral-offset">0</real>
+            <real paramName="azimuth-rate">0</real>
+            <real paramName="elevation">0</real>
+            <real paramName="elevation-rate">0</real>
+            <real paramName="max-azimuth">1.5708</real>
+            <real paramName="max-azimuth-rate">0.9</real>
+            <real paramName="max-elevation">0.785398</real>
+            <real paramName="max-elevation-rate">0.9</real>
+            <real paramName="min-azimuth">-1.5708</real>
+            <real paramName="min-elevation">-0.785398</real>
+            <string paramName="comment"/>
+         </DtSimArtPartDescriptor>
+         <DtSimArtPartDescriptor paramName="primary-gun-4416">
+            <DtRwList paramName="art-part-param-list">
+               <int paramName="param-type">11</int>
+               <int paramName="param-type">12</int>
+               <int paramName="param-type">13</int>
+               <int paramName="param-type">14</int>
+            </DtRwList>
+            <bodyPosition paramName="attach-point" forward="0.2" right="0" down="-1.49"/>
+            <bodyPosition paramName="end-point" forward="0.953" right="0.196" down="0"/>
+            <int paramName="art-part-type">4416</int>
+            <int paramName="parent-part-type">-1</int>
+            <real paramName="azimuth">0</real>
+            <real paramName="azimuth-neutral-offset">0</real>
+            <real paramName="azimuth-rate">0</real>
+            <real paramName="elevation">0</real>
+            <real paramName="elevation-rate">0</real>
+            <real paramName="max-azimuth">1.047</real>
+            <real paramName="max-azimuth-rate">628.318530718</real>
+            <real paramName="max-elevation">1.047</real>
+            <real paramName="max-elevation-rate">7</real>
+            <real paramName="min-azimuth">-1.047</real>
+            <real paramName="min-elevation">-1.047</real>
+            <string paramName="comment"/>
+         </DtSimArtPartDescriptor>
+      </DtSimArtPartDescriptorList>
+      <bool paramName="can-be-embarked-upon">True</bool>
+      <componentSystem systemName="movement" platform="@(system-dir)\movement\human.sysdef">
+         <bool paramName="has-parachute">False</bool>
+         <string paramName="dead-animation">dead3</string>
+         <string paramName="human-movement">Human Movement</string>
+         <string paramName="prone-animation">prone_inj_1</string>
+         <string paramName="stunned-animation">stand_ambient_2</string>
+      </componentSystem>
+      <componentSystem systemName="other-6" platform="@(system-dir)\weapons\handheld-grenade-tossing.sysdef">
+         <bodyPosition paramName="launch-point" forward="0" right="0" down="0"/>
+         <bool paramName="suppressible">False</bool>
+         <int paramName="num-flash">10</int>
+         <int paramName="num-frag">10</int>
+         <int paramName="num-smoke-green">2</int>
+         <int paramName="num-smoke-red">2</int>
+         <int paramName="num-smoke-violet">2</int>
+         <int paramName="num-smoke-white">2</int>
+         <int paramName="num-smoke-yellow">2</int>
+         <int paramName="num-tear-gas">10</int>
+      </componentSystem>
+      <componentSystem systemName="shoulder-mounted-missile-launchers" platform="@(system-dir)\weapons\shoulder-mounted-weapons.sysdef">
+         <int paramName="javelin-equipped">0</int>
+         <int paramName="num-javelins">2</int>
+         <int paramName="num-rpgs">4</int>
+         <int paramName="rpg-equipped">0</int>
+      </componentSystem>
+      <componentSystem systemName="weapon-2" platform="@(system-dir)\weapons\handheld-M4.sysdef">
+         <bodyPosition paramName="attach-point" forward="0.2" right="0" down="-1.49"/>
+         <int paramName="burst-size">1</int>
+         <int paramName="gun-art-part-type">4416</int>
+         <int paramName="num-rounds">210</int>
+         <int paramName="rapid-fire-rate">12</int>
+         <int paramName="sustained-rate">6</int>
+         <string paramName="human-combat">Human Combat</string>
+      </componentSystem>
+      <componentSystem systemName="weapon-3" platform="@(system-dir)\weapons\handheld-M9.sysdef">
+         <bodyPosition paramName="attach-point" forward="0.2" right="0" down="-1.49"/>
+         <int paramName="burst-size">1</int>
+         <int paramName="gun-art-part-type">4416</int>
+         <int paramName="num-rounds">60</int>
+         <int paramName="rapid-fire-rate">12</int>
+         <int paramName="sustained-rate">6</int>
+         <string paramName="human-combat">Human Combat</string>
+      </componentSystem>
+      <embarkationSlots paramName="embarkation-slots">
+         <embarkationSlot embarkableObject="-1:3:1:-1:-1:-1:-1:-1" capacity="1" jumpToLocation="True" turnToHeading="False" orientOnIngress="False" invisibleWhenEmbarked="False" embarkedAppearance="0X10A0000" embarkedAnimation="injured_carried">
+            <embarkedOrientation yaw="57.29" pitch="0" roll="0"/>
+            <embarkedPosition x="0" y="0" z="2"/>
+            <string paramName="slotName">firemanCarry</string>
+            <string paramName="slotType">Spectator</string>
+            <string paramName="stationName">20004</string>
+            <string paramName="ingressTechnique"/>
+            <string paramName="egressTechnique"/>
+         </embarkationSlot>
+         <embarkationSlot embarkableObject="-1:3:1:-1:-1:-1:-1:-1" capacity="1" jumpToLocation="True" turnToHeading="False" orientOnIngress="False" invisibleWhenEmbarked="False" embarkedAppearance="0X10A0000" embarkedAnimation="injured_dragged">
+            <embarkedOrientation yaw="0.01" pitch="0" roll="0"/>
+            <embarkedPosition x="0" y="0" z="2"/>
+            <string paramName="slotName">armpitDrag</string>
+            <string paramName="slotType">Spectator</string>
+            <string paramName="stationName">20005</string>
+            <string paramName="ingressTechnique"/>
+            <string paramName="egressTechnique"/>
+         </embarkationSlot>
+         <embarkationSlot embarkableObject="-1:3:1:-1:-1:-1:-1:-1" capacity="1" jumpToLocation="True" turnToHeading="False" orientOnIngress="False" invisibleWhenEmbarked="False" embarkedAppearance="0X10A0000" embarkedAnimation="injured_dragged_strap">
+            <embarkedOrientation yaw="0.01" pitch="0" roll="0"/>
+            <embarkedPosition x="0" y="0" z="2"/>
+            <string paramName="slotName">strapDrag</string>
+            <string paramName="slotType">Spectator</string>
+            <string paramName="stationName">20006</string>
+            <string paramName="ingressTechnique"/>
+            <string paramName="egressTechnique"/>
+         </embarkationSlot>
+      </embarkationSlots>
+      <loadPoints paramName="egress-points">
+         <loadPoint supportedSlots="">
+            <vector x="0" y="0" z="0"/>
+         </loadPoint>
+         <loadPoint supportedSlots="25 26">
+            <vector paramName="embarkation-load-point" x="0" y="0" z="-0"/>
+         </loadPoint>
+      </loadPoints>
+      <loadPoints paramName="ingress-points">
+         <loadPoint supportedSlots="">
+            <vector x="0" y="0" z="0"/>
+            <vector x="0" y="0" z="0"/>
+         </loadPoint>
+         <loadPoint supportedSlots="25 26">
+            <vector paramName="embarkation-load-point" x="0" y="0" z="-0"/>
+            <vector paramName="load-point" x="0" y="0" z="-0"/>
+         </loadPoint>
+      </loadPoints>
+      <real paramName="max-slope">1</real>
+      <string paramName="gui-categories">"3D Model" "Human" "Materially Classified" "Military" "Visual Quality" "VR-Engage"</string>
+      <string paramName="gui-label">TestHuman</string>
+      <string paramName="gui-unique-id">ModelSet-177157886-TestHuman</string>
+      <vrEngageRoles>
+         <role paramName="Human Player" defaultDisplayLayout="1 Screen Horizontal">@(vre-roles-dir)/militaryHuman.lua</role>
+      </vrEngageRoles>
+   </simObject>
+</simObjects>

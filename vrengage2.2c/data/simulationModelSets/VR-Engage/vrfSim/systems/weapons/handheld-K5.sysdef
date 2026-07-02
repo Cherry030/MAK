@@ -1,0 +1,168 @@
+(VR-Engage-K5-Pistol 
+   (systems 
+      (handheld-K5 
+         (variable-bindings 
+            (DtRwString
+               (process-state-name "vre-vrf-turreted-ballistic-gun-process-state-repository-default")
+            )
+            (DtRwReal
+               (load-ammo-time 1.500000)
+            )
+            (DtRwReal
+               (unload-ammo-time 1.500000)
+            )
+            (DtRwReal
+               (max-elevation-rate 7.000000)
+            )
+            (DtRwReal
+               (max-elevation-range 1.047000)
+            )
+            (DtRwReal
+               (min-elevation-range -1.047000)
+            )
+            (DtRwReal
+               (max-azimuth-rate 7.000000)
+            )
+            (DtRwReal
+               (max-azimuth-range 1.047000)
+            )
+            (DtRwReal
+               (min-azimuth-range -1.047000)
+            )
+            (DtRwReal
+               (neutral-elevation 0.000000)
+            )
+            (DtRwReal
+               (muzzle-speed 381.000000)
+            )
+            (DtRwInt
+               (rounds-per-magazine 15)
+            )
+            (DtRwInt
+               (rounds-per-minute 180)
+            )
+            (DtRwReal
+               (extra-time-between-bursts 2.000000)
+            )
+            (DtRwReal
+               (burst-cep 0.005000)
+            )
+            (DtRwBoolean
+               (start-with-tracers False)
+            )
+            (DtRwOffsetVector
+               (muzzle-offset  0.300000 0.000000 0.000000)
+            )
+            (DtRwReal
+               (max-skill-level-effect 0.250000)
+            )
+            (DtTargetingControlTable
+               (targeting-control-table 
+                  (max-targets 1)
+                  (target-region 
+                     (in-range 
+                        (range 500.000000)
+                     )
+                  )
+                  (fire-with-spot-report-only False)
+                  (allow-autonomous-fire True)
+                  (ammunition-list 
+                     (K5-9mm 
+                        (type 2 8 225 2 3 0 1)
+                     )
+                  )
+                  (entity-target-priorities 
+                     (priority-entry 
+                        (target-type 3 1 -1 1 -1 -1 -1)
+                        (priority-types 
+                           (target-type 2 8 225 2 3 0 1)
+                        )
+                     )
+                     (priority-entry 
+                        (target-type 3 -1 -1 -1 -1 -1 -1)
+                        (priority-types 
+                           (target-type 2 8 225 2 3 0 1)
+                        )
+                     )
+                  )
+               )
+            )
+            (DtRangeProbabilityTable
+               (hit-probability-table 
+                  (entity-range 
+                     (entity-type 3 -1 -1 -1 -1 -1 -1)
+                     (range-determinant 
+                        (step-function 
+                           (range  10.000000
+                              (probability 1.000000)
+                           )
+                           (range  50.000000
+                              (probability 0.900000)
+                           )
+                           (range  400.000000
+                              (probability 0.700000)
+                           )
+                           (range  1800.000000
+                              (probability 0.010000)
+                           )
+                        )
+                     )
+                  )
+               )
+            )
+            (DtRwInt
+               (range-id 10005)
+            )
+            (DtRwInt
+               (default-burst-size 1)
+            )
+            (DtRwInt
+               (default-rapid-fire-rate 12)
+            )
+            (DtRwInt
+               (default-sustained-rate 6)
+            )
+            (DtRwInt
+               (default-gun-art-part-type 4416)
+            )
+            (DtRwOffsetVector
+               (default-attach-point  0.200000 0.000000 -1.490000)
+            )
+            (DtRwReal
+               (max-range 500.000000)
+            )
+         )
+         (system-definition 
+            (filename "$(system-dir)\weapons\templates\engage-handheld-gun.template_sysdef")
+         )
+         (is-enabled True)
+         (part-of-roll-up False)
+      )
+   )
+   (connections 
+      (connect system:all handheld-K5:all)
+      (connect handheld-K5:all system:all)
+   )
+   (meta-data 
+      (system-name "VR-Engage K5 Pistol")
+      (system-description "Handheld K5 pistol. Targets human entities.")
+      (allowed-state-repository-types "human-param")
+      (system-categories "weapon" "aimable-weapon")
+      (parameter-data-list )
+      (meta-data-entry-list )
+      (ui-filename "handheld-gun")
+      (merge-with-sub-systems True)
+      (only-supports-health-checks )
+      (deprecated-variable-bindings "num-rounds")
+      (additional-data )
+   )
+   (compatibility-psr-names )
+   (can-be-disabled False)
+   (is-template False)
+   (resource-defaults 
+      (resource1 
+         (resource-type 2 8 225 2 3 0 1)
+         (amount 60.000000)
+      )
+   )
+)

@@ -1,0 +1,8 @@
+DataTypes\dstAccessoryEnums.h
+dllExport.h
+logInInfoInterDecoderHLA.h
+logInInfoInterEncoderHLA.h
+logInInfoInterHLA.h
+powerCtrlInterDecoderHLA.h
+powerCtrlInterEncoderHLA.h
+powerCtrlInterHLA.h

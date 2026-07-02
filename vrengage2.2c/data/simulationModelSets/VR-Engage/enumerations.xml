@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebv>
+  <loadPriority>2</loadPriority>
+  <copyright>Copyright (c) 1992-2025 MAK Technologies
+All rights reserved.</copyright>
+  <pocName>MAK Technologies</pocName>
+  <pocOrg>MAK Technologies</pocOrg>
+  <pocTelephone>+1 (617) 876-8085</pocTelephone>
+  <pocEmail>support@mak.com</pocEmail>
+  <enum uid="2000000" name="VR-Forces Range Rings" description="">
+    <enumrow value="0" description="Unknown"/>
+    <enumrow value="1" description="20mm Gun"/>
+    <enumrow value="2" description="25mm Gun"/>
+    <enumrow value="3" description="30mm Gun"/>
+    <enumrow value="4" description="35mm Gun"/>
+    <enumrow value="5" description="14.5mm Quad Gun"/>
+    <enumrow value="6" description="76mm"/>
+    <enumrow value="7" description="120mm Gun"/>
+    <enumrow value="8" description="125mm Gun"/>
+    <enumrow value="9" description="AK-47"/>
+    <enumrow value="10" description="Handheld AT4"/>
+    <enumrow value="11" description="Glock"/>
+    <enumrow value="12" description="Grenade"/>
+    <enumrow value="13" description="M16 rifle"/>
+    <enumrow value="14" description="M240B Machine Gun"/>
+    <enumrow value="15" description="M249 SAW"/>
+    <enumrow value="16" description="M4 Rifle"/>
+    <enumrow value="17" description="M60 Machine Gun"/>
+    <enumrow value="18" description="Handheld RPG Launcher"/>
+    <enumrow value="19" description="Vertical Missile Launcher"/>
+    <enumrow value="20" description="RUR-5 ASROC"/>
+    <enumrow value="21" description="Attack Helicopter Missile Package"/>
+    <enumrow value="22" description="Attack Strike Missile Package"/>
+    <enumrow value="23" description="Exocet Cruise Missile"/>
+    <enumrow value="24" description="AMRAAM Missile"/>
+    <enumrow value="25" description="Harpoon Missile"/>
+    <enumrow value="26" description="Maverick Missile"/>
+    <enumrow value="27" description="Sidewinder Missile"/>
+    <enumrow value="28" description="GAU-8 Avenger"/>
+    <enumrow value="29" description="GSh-301 Cannon"/>
+    <enumrow value="30" description="Mk 48 ADCAP Torpedo"/>
+    <enumrow value="31" description="KN-02"/>
+    <enumrow value="32" description="KN-08"/>
+    <enumrow value="33" description="Hydra-70-APKWS"/>
+    <enumrow value="34" description="Hellfire Missile"/>
+    <enumrow value="35" description="M2HB MG"/>
+    <enumrow value="36" description="M203 Grenade"/>
+    <enumrow value="37" description="M230 Chain Gun"/>
+    <enumrow value="38" description="M240 Machine Gun"/>
+    <enumrow value="39" description="M252-81mm Mortar"/>
+    <enumrow value="40" description="M270-MLRS"/>
+    <enumrow value="41" description="M284-15mm Cannon"/>
+    <enumrow value="42" description="M327-120mm Mortar"/>
+    <enumrow value="43" description="M60 Machine Gun"/>
+    <enumrow value="44" description="M61 Vulcan"/>
+    <enumrow value="45" description="TOW Missile"/>
+    <enumrow value="46" description="MK-19"/>
+    <enumrow value="47" description="MK45"/>
+    <enumrow value="48" description="No Dong"/>
+    <enumrow value="49" description="Nodong"/>
+    <enumrow value="50" description="Patriot Missile"/>
+    <enumrow value="51" description="SA-21 Missile"/>
+    <enumrow value="52" description="SA-9 Missile"/>
+    <enumrow value="53" description="Scud C Missile"/>
+    <enumrow value="54" description="Scud-ER Missile"/>
+    <enumrow value="55" description="Scud B Missile"/>
+    <enumrow value="56" description="SS-25 Missile"/>
+    <enumrow value="57" description="Stinger Missile"/>
+    <enumrow value="58" description="THAAD Missile"/>
+    <enumrow value="59" description="TLAM Vertical Cruise Launcher"/>
+    <enumrow value="60" description="Maximum Sensor Range"/>
+    <enumrow value="61" description="Visual Sensor"/>
+    <enumrow value="62" description="Active RADAR Sensor"/>
+    <enumrow value="63" description="Airborne Targeting RADAR Sensor"/>
+    <enumrow value="64" description="Ground Based Air Defense RADAR Sensor"/>
+    <enumrow value="65" description="Passive RADAR Sensor"/>
+    <enumrow value="66" description="Active RADAR Munition Sensor"/>
+    <enumrow value="67" description="Active SONAR Sensor"/>
+    <enumrow value="68" description="Passive SONAR Sensor"/>
+    <enumrow value="69" description="IR Sensor"/>
+    <enumrow value="70" description="Space Based Infrared Sensor"/>
+    <enumrow value="71" description="MAD Sensor"/>
+    <enumrow value="72" description="Search and Rescue Sensor"/>
+    <enumrow value="73" description="Gimbaled Visual Sensor"/>
+    <enumrow value="74" description="Mine"/>
+    <enumrow value="75" description="UGM-133 Missile"/>
+    <enumrow value="76" description="Physical-Footprint"/>
+    <enumrow value="77" description="Beacon RADAR Sensor"/>
+    <enumrow value="78" description="SIGINT Sensor"/>
+    <enumrow value="79" description="Engineering Object Sensor"/>
+    <enumrow value="80" description="NBC Sensor"/>
+    <enumrow value="81" description="Combat-Power.Anti-Air.Range"/>
+    <enumrow value="82" description="Combat-Power.Anti-Personnel.Range"/>
+    <enumrow value="83" description="Combat-Power.Anti-Ship.Range"/>
+    <enumrow value="84" description="Combat-Power.Anti-Tank.Range"/>
+    <enumrow value="85" description="Combat-Power.High-Explosive.Range"/>
+    <enumrow value="86" description="Indirect-Fire-Power.120mm mortar rd.Range"/>
+    <enumrow value="87" description="Indirect-Fire-Power.122mm.Range"/>
+    <enumrow value="88" description="Indirect-Fire-Power.152mm.Range"/>
+    <enumrow value="89" description="Indirect-Fire-Power.155mm.Range"/>
+    <enumrow value="90" description="Indirect-Fire-Power.Bomb, JDAM, 2000lb.Range"/>
+    <enumrow value="91" description="Indirect-Fire-Power.5 inch shell.Range"/>
+    <enumrow value="92" description="Indirect-Fire-Power.Missile, 9M330.Range"/>
+    <enumrow value="93" description="Indirect-Fire-Power.9P140 MRL.Range"/>
+    <enumrow value="94" description="Indirect-Fire-Power.Missile, AMRAAM.Range"/>
+    <enumrow value="95" description="Indirect-Fire-Power.Bomb, GBU-24, 2000lb.Range"/>
+    <enumrow value="96" description="Indirect-Fire-Power.Missile, Harpoon.Range"/>
+    <enumrow value="97" description="Indirect-Fire-Power.M993 MLRS.Range"/>
+    <enumrow value="98" description="Indirect-Fire-Power.Torpedo, Mark 54.Range"/>
+    <enumrow value="99" description="Indirect-Fire-Power.Missile, Maverick.Range"/>
+    <enumrow value="101" description="Indirect-Fire-Power.Missile, Patriot.Range"/>
+    <enumrow value="102" description="Indirect-Fire-Power.Missile, RIM-66.Range"/>
+    <enumrow value="103" description="Indirect-Fire-Power.Missile, Sidewinder.Range"/>
+    <enumrow value="104" description="Indirect-Fire-Power.Missile, Stinger C.Range"/>
+    <enumrow value="105" description="Indirect-Fire-Power.Missile, Tomahawk.Range"/>
+    <enumrow value="106" description="Indirect-Fire-Power.Torpedo, Type 40.Range"/>
+    <enumrow value="107" description="Archer Missile"/>
+    <enumrow value="108" description="Aphid Missile"/>
+    <enumrow value="109" description="Kegler Missile"/>
+    <enumrow value="110" description="Kedge Missile"/>
+    <enumrow value="111" description="Kerry Missile"/>
+    <enumrow value="112" description="Spiral Missile"/>
+    <enumrow value="113" description="SM-2 Missile"/>
+    <enumrow value="114" description="SM-3 Missile"/>
+    <enumrow value="115" description="Missile"/>
+    <enumrow value="116" description="Rocket"/>
+    <enumrow value="117" description="Coax M240"/>
+    <enumrow value="118" description="Loader M240"/>
+    <enumrow value="119" description="Storm Shadow Missile"/>
+    <enumrow value="120" description="SCALP-EG Missile"/>
+    <enumrow value="121" description="RIM-116 Missile"/>
+    <enumrow value="122" description="Meteor Missile"/>
+    <enumrow value="123" description="MICA RF/EM Missile"/>
+    <enumrow value="124" description="AS-30L Missile"/>
+    <enumrow value="125" description="Tamir Missile"/>
+    <enumrow value="126" description="Javelin Launcher"/>
+    <enumrow value="127" description="Javelin Missile"/>
+    <enumrow value="128" description="M119 105mm Cannon"/>
+    <enumrow value="500" description="EF88 Rifle"/>
+    <enumrow value="501" description="M203"/>
+    <enumrow value="502" description="M9 Pistol"/>
+    <enumrow value="503" description="XM107 Rifle"/>
+    <enumrow value="504" description="M2 50cal MG"/>
+    <enumrow value="505" description="Mauser-BK-27mm Gun"/>
+    <enumrow value="506" description="CBU-105"/>
+    <enumrow value="507" description="JDAM"/>
+    <enumrow value="508" description="KAB-500N"/>
+    <enumrow value="509" description="Paveway III"/>
+    <enumrow value="510" description="M60 Machine Gun"/>
+    <enumrow value="511" description="M61 Vulcan"/>
+    <enumrow value="512" description="M230"/>
+    <enumrow value="513" description="MK-19"/>
+    <enumrow value="514" description="M240"/>
+    <enumrow value="515" description="FGM-148 Javelin"/>
+    <enumrow value="516" description="Spike"/>
+    <enumrow value="10000" description="K2 rifle"/>
+    <enumrow value="10002" description="K5 pistol"/>
+  </enum>
+  <enum uid="2000001" name="VR-Forces Resource Location" description="">
+    <enumrow value="0" description="Unspecified"/>
+    <enumrow value="1" description="Cargo"/>
+  </enum>
+  <enum uid="2000002" name="VR-Forces Resource Measuremments" description="">
+    <enumrow value="0" description="Count"/>
+    <enumrow value="1" description="Weight (kg)"/>
+    <enumrow value="2" description="Volume (L)"/>
+  </enum>
+  <enum uid="2000003" name="VR-Forces Resource Defaults" description="">
+    <enumrow value="1" description="6.3.X.2.X.X.X;6.3.X.4.X.X.X"/>
+    <enumrow value="2" description="6.3.X.3.X.X.X"/>
+  </enum>
+</ebv>

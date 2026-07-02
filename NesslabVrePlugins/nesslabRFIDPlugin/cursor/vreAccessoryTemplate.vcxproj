@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyAccessory.h" />
+    <ClInclude Include="vreAccessoryTemplate.h" />
+    <ClInclude Include="vreAccessoryTemplatePlugin.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="vreAccessoryTemplatePlugin.cxx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyAccessory.inl" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B7C4E8A2-9F3D-4B21-A1C0-2E6D9F8B4A51}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>vreAccessoryTemplate</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.props" />
+  <PropertyGroup>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(ProjectDir)build\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(ProjectDir)obj\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">vreAccessoryTemplate</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_RTIDIR)/include;$(MAK_RTIDIR)/include/HLA1516E;$(MAK_VRLDIR)/include;$(MAK_VREDIR)/include;$(MAK_VREDIR)/include/framework;$(MAK_VREDIR)/include/utilities;$(MAK_VRVDIR)/include;$(MAK_VRVDIR)/include/vrvVrl;$(MAK_VRVDIR)/include/vrvHla1516e;$(ProjectDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;NOMINMAX;VREACCESSORYTEMPLATE_EXPORTS=1;DT_USE_DLL=1;DtHLA=1;DtHLA_1516=1;DtHLA_1516_EVOLVED=1;RTI_USES_STD_FSTREAM=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_WIN64;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>vrvHla1516e.lib;vlHLA1516e.lib;vl.lib;matrix.lib;vlutil.lib;vrvCore.lib;vrvUtil.lib;makArchives.lib;vrePlayerStation.lib;vreUtil.lib;librti1516e64.lib;libfedtime1516e64.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VREDIR)/lib64;$(MAK_VREDIR)/lib64/$(Configuration);$(MAK_VRVDIR)/lib64;$(MAK_VRVDIR)/lib64/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);$(MAK_RTIDIR)/lib;$(MAK_RTIDIR)/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>if not exist "$(MAK_VREDIR)\plugins64\vrEngage\release" mkdir "$(MAK_VREDIR)\plugins64\vrEngage\release"
+xcopy /Y "$(TargetPath)" "$(MAK_VREDIR)\plugins64\vrEngage\release"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.targets" />
+</Project>

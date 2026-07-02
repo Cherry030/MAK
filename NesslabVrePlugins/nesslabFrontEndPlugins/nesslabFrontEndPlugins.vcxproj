@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Unoptimized|x64">
+      <Configuration>Unoptimized</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DC6F675B-C48C-3118-8AF3-9868A8DB459C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>nesslabFrontEndPlugins</ProjectName>
+    <CudaToolkitCustomDir>D:/engineering-mirror/3rdParty/libraries/CUDA/11.7/win64/</CudaToolkitCustomDir>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+    <VCToolsVersion>
+    </VCToolsVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">..\plugins64\vrEngage\release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabFrontEndPlugins.dir/RelWithDebInfo/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabFrontEndPlugins</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">..\..\examples\plugins\unoptimized\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleNotify.dir/Unoptimized/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleNotify</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(IncludePath)</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)\lib64\boost_143\lib;$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;$(MAK_VREDIR)/include;$(MAK_VREDIR)/include\framework;$(MAK_VREDIR)/include\commonRoleLibraries;$(MAK_VREDIR)/include\roles/human;$(MAK_VREDIR)/include\utilities;$(MAK_VREDIR)/include\vrvExtensions;$(MAK_VREDIR)/include\vrfExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_LIB_TOOLSET="vc141";BOOST_FILESYSTEM_VERSION=3;BOOST_NO_RVALUE_REFERENCES=1;NOMINMAX;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;DT_DLL_BUILD;CMAKE_INTDIR="RelWithDebInfo";OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;NESSLAB_FRONTEND_PLUGINS_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"RelWithDebInfo/";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>xcopy /Y "$(TargetPath)" "$(MAK_VREDIR)\plugins64\vrEngage\release"</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>Qt5Gui.lib;Qt5Core.lib;Qt5Widgets.lib;vrvCore.lib;vreHumanFrontend.lib;vrvVirtualReality.lib;readerWriter.lib;vlutil.lib;matrix.lib;vreCommonComponents.lib;vrePlayerStation.lib;vrvVirtualRealityController.lib;vreMessages.lib;vreMessageManager.lib;vreUtil.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;vrvutil.lib;vl.lib;vrfutil.lib;vrePlayerStationHLA1516e.lib;vrePlayerStationDIS.lib;vreInput.lib;NesslabCommon.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(QTDIR)/lib;$(QTDIR)/lib/$(Configuration);$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);$(MAK_VREDIR)/lib64;$(MAK_VREDIR)/lib64/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>
+      </ImportLibrary>
+      <LargeAddressAware>
+      </LargeAddressAware>
+      <ProgramDataBaseFile>..\..\NesslabVrePlugins\bin64/RelWithDebInfo/nesslabFrontEndPlugins.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild>
+      </MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode>
+      </SupportJustMyCode>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="Unoptimized";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;QT_DLL;QT_THREAD_SUPPORT;EXAMPLENOTIFY_EXPORTS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;DT_DLL_BUILD;DT_USE_DLL;BOOST_NO_RVALUE_REFERENCES;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"Unoptimized/";exampleNotify_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(QTDIR)/include;$(QTDIR)/include/QtCore;$(QTDIR)/include/QtGui;$(QTDIR)/include/QtWidgets;$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/framework;../../include/commonRoleLibraries;../../include/roles/human;../../include/utilities;../../include/vrvExtensions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\plugins /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\plugins /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>Qt5Gui.lib;Qt5Core.lib;Qt5Widgets.lib;vrvCore.lib;vreHumanFrontend.lib;vrvVirtualReality.lib;readerWriter.lib;vlutil.lib;matrix.lib;vreCommonComponents.lib;vrePlayerStation.lib;vreMessages.lib;vrvVirtualRealityController.lib;vreMessageManager.lib;vreUtil.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(QTDIR)/lib;$(QTDIR)/lib/$(Configuration);$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib64;/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/exampleNotification/build64/Unoptimized/exampleNotify.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/Unoptimized/exampleNotify.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ActionPlugin.cpp" />
+    <ClCompile Include="CustomHumanControlLogic.cpp" />
+    <ClCompile Include="ScreenWindowPlugin.cpp" />
+    <ClCompile Include="WeaponPosePlugin.cpp" />
+    <ClCompile Include="RFIDPlugin.cpp" />
+    <ClCompile Include="WeaponPlugin.cpp" />
+    <ClInclude Include="export.h" />
+    <ClCompile Include="plugin.cxx" />
+    <ClInclude Include="CustomHumanControlLogic.h" />
+    <ClInclude Include="plugin.h" />
+    <ClInclude Include="ActionPlugin.h" />
+    <ClInclude Include="ScreenWindowPlugin.h" />
+    <ClInclude Include="WeaponPosePlugin.h" />
+    <ClInclude Include="RFIDPlugin.h" />
+    <ClInclude Include="WeaponPlugin.h" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

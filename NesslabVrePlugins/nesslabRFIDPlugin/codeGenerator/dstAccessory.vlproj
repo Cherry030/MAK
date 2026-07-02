@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <baseName name="dstAccessory"/>
+  <includeDir name=""/>
+  <classPrefix name=""/>
+  <foms/>
+  <configurationRoot>
+    <customization/>
+    <predefinedTypes>
+      <type name="AccelerationVectorStruct" representation="DtVector32"/>
+      <type name="AngularVelocityVectorStruct" representation="DtVector32"/>
+      <type name="EntityIdentifierStruct" representation="DtEntityIdentifier"/>
+      <type name="EntityTypeStruct" representation="DtEntityType"/>
+      <type name="HLAASCIIchar" representation="DtU8"/>
+      <type name="HLAASCIIstring" representation="DtString"/>
+      <type name="HLAUnsignedInteger16BE" representation="DtU16"/>
+      <type name="HLAUnsignedInteger32BE" representation="DtU32"/>
+      <type name="HLAUnsignedInteger64BE" representation="DtU64"/>
+      <type name="HLAUnsignedInteger8BE" representation="DtU8"/>
+      <type name="HLAboolean" representation="bool"/>
+      <type name="HLAcount" representation="DtInt32"/>
+      <type name="HLAfloat32BE" representation="DtFloat32"/>
+      <type name="HLAfloat32LE" representation="DtFloat32"/>
+      <type name="HLAfloat64BE" representation="DtFloat64"/>
+      <type name="HLAfloat64LE" representation="DtFloat64"/>
+      <type name="HLAinteger16BE" representation="DtInt16"/>
+      <type name="HLAinteger16LE" representation="DtInt16"/>
+      <type name="HLAinteger32BE" representation="DtInt32"/>
+      <type name="HLAinteger32LE" representation="DtInt32"/>
+      <type name="HLAinteger64BE" representation="DtInt64"/>
+      <type name="HLAinteger64LE" representation="DtInt64"/>
+      <type name="HLAlogicalTime" representation="DtHlaLogicalTime"/>
+      <type name="HLAlogicalTimeInterval" representation="DtHlaLogicalTimeInterval"/>
+      <type name="HLAoctet" representation="DtU8"/>
+      <type name="HLAoctetPairBE" representation="DtU16"/>
+      <type name="HLAoctetPairLE" representation="DtU16"/>
+      <type name="HLAopaqueData" representation="DtString"/>
+      <type name="HLAtimeInterval" representation="DtHlaLogicalTimeInterval"/>
+      <type name="HLAunicodeChar" representation="DtU16"/>
+      <type name="HLAunicodeString" representation="DtString"/>
+      <type name="HLAunsignedInteger16BE" representation="DtU16"/>
+      <type name="HLAunsignedInteger32BE" representation="DtU32"/>
+      <type name="HLAunsignedInteger64BE" representation="DtU64"/>
+      <type name="HLAunsignedInteger8BE" representation="DtU8"/>
+      <type name="MarkingArray11" representation="DtString"/>
+      <type name="MarkingArray31" representation="DtString"/>
+      <type name="OMT13boolean" representation="bool"/>
+      <type name="Octet" representation="DtU8"/>
+      <type name="OrientationStruct" representation="DtTaitBryan"/>
+      <type name="RPRUnsignedInteger16BE" representation="DtU16"/>
+      <type name="RPRUnsignedInteger32BE" representation="DtU32"/>
+      <type name="RPRUnsignedInteger64BE" representation="DtU64"/>
+      <type name="RPRUnsignedInteger8BE" representation="DtU8"/>
+      <type name="RPRboolean" representation="bool"/>
+      <type name="RPRunsignedInteger16BE" representation="DtU16"/>
+      <type name="RPRunsignedInteger32BE" representation="DtU32"/>
+      <type name="RPRunsignedInteger64BE" representation="DtU64"/>
+      <type name="RPRunsignedInteger8BE" representation="DtU8"/>
+      <type name="RTIObjectId" representation="DtGlobalObjectDesignator"/>
+      <type name="RTIObjectIdStruct" representation="DtGlobalObjectDesignator"/>
+      <type name="RTIobjectId" representation="DtGlobalObjectDesignator"/>
+      <type name="RTIobjectIdStruct" representation="DtGlobalObjectDesignator"/>
+      <type name="UnsignedInteger16BE" representation="DtU16"/>
+      <type name="UnsignedInteger16LE" representation="DtU16"/>
+      <type name="UnsignedInteger32BE" representation="DtU32"/>
+      <type name="UnsignedInteger32LE" representation="DtU32"/>
+      <type name="UnsignedInteger64BE" representation="DtU64"/>
+      <type name="UnsignedInteger64LE" representation="DtU64"/>
+      <type name="UnsignedLong" representation="DtU32"/>
+      <type name="UnsignedShort" representation="DtU16"/>
+      <type name="Unsignedinteger16" representation="DtU16"/>
+      <type name="Unsignedinteger16BE" representation="DtU16"/>
+      <type name="Unsignedinteger16LE" representation="DtU16"/>
+      <type name="Unsignedinteger32BE" representation="DtU32"/>
+      <type name="Unsignedinteger32LE" representation="DtU32"/>
+      <type name="Unsignedinteger64BE" representation="DtU64"/>
+      <type name="Unsignedinteger64LE" representation="DtU64"/>
+      <type name="Unsignedinteger8" representation="DtU8"/>
+      <type name="VelocityVectorStruct" representation="DtVector32"/>
+      <type name="WorldLocationStruct" representation="DtVector64"/>
+      <type name="any" representation="DtU8"/>
+      <type name="boolean" representation="bool"/>
+      <type name="char" representation="DtU8"/>
+      <type name="double" representation="DtFloat64"/>
+      <type name="float" representation="DtFloat32"/>
+      <type name="handle" representation="DtU8"/>
+      <type name="long" representation="DtInt32"/>
+      <type name="long long" representation="DtInt64"/>
+      <type name="octet" representation="DtU8"/>
+      <type name="short" representation="DtInt16"/>
+      <type name="string" representation="DtString"/>
+      <type name="timeType" representation="DtHlaLogicalTime"/>
+      <type name="unsigned long" representation="DtU32"/>
+      <type name="unsigned long long" representation="DtU64"/>
+      <type name="unsigned short" representation="DtU16"/>
+      <type name="unsignedLong" representation="DtU32"/>
+      <type name="unsignedShort" representation="DtU16"/>
+    </predefinedTypes>
+  </configurationRoot>
+</project>

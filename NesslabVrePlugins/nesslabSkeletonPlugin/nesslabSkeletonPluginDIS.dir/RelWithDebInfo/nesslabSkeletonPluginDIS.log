@@ -1,0 +1,33 @@
+﻿  SkeletonPlugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkeletonPlugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkeletonPlugin.cxx'을(를) 컴파일하는 중)
+  
+  SkBoundingVolume.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+  plugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  NesslabCommon.lib(nesslabUdpServer.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+     ../nesslabSkeletonPlugin/build64/RelWithDebInfo/nesslabSkeletonPluginDIS.lib 라이브러리 및 ../nesslabSkeletonPlugin/build64/RelWithDebInfo/nesslabSkeletonPluginDIS.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  nesslabSkeletonPluginDIS.vcxproj -> C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabSkeletonPluginDIS.dll
+  C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabSkeletonPluginDIS.dll
+  1개 파일이 복사되었습니다.

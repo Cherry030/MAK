@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="20">
+<DtModelDefinitionManager class_id="0" tracking_level="0" version="1">
+	<myDefinitions class_id="1" tracking_level="0" version="0">
+		<count>2</count>
+		<item_version>0</item_version>
+		<item class_id="2" tracking_level="0" version="0">
+			<first>Lifeformsoldier_07_sk_australian_soldier</first>
+			<second class_id="3" tracking_level="0" version="3">
+				<Name>Lifeformsoldier_07_sk_australian_soldier</Name>
+				<Schema>DiGuyCharacter</Schema>
+				<Parameters class_id="4" tracking_level="0" version="0">
+					<ParameterMap class_id="5" tracking_level="0" version="0">
+						<count>4</count>
+						<item_version>0</item_version>
+						<item class_id="6" tracking_level="0" version="0">
+							<first>defaultAppearance</first>
+							<second>sk_australian_soldier</second>
+						</item>
+						<item>
+							<first>diguyCharacter</first>
+							<second>soldier_07</second>
+						</item>
+						<item>
+							<first>shadowCaster</first>
+							<second>1</second>
+						</item>
+						<item>
+							<first>shadowReceiver</first>
+							<second>0</second>
+						</item>
+					</ParameterMap>
+				</Parameters>
+				<Keywords class_id="7" tracking_level="0" version="0">
+					<count>0</count>
+					<item_version>0</item_version>
+				</Keywords>
+			</second>
+		</item>
+		<item>
+			<first>Lifeformsoldier_17_sk_roka_soldier</first>
+			<second>
+				<Name>Lifeformsoldier_17_sk_roka_soldier</Name>
+				<Schema>DiGuyCharacter</Schema>
+				<Parameters>
+					<ParameterMap>
+						<count>4</count>
+						<item_version>0</item_version>
+						<item>
+							<first>defaultAppearance</first>
+							<second>sk_roka_soldier</second>
+						</item>
+						<item>
+							<first>diguyCharacter</first>
+							<second>soldier_17</second>
+						</item>
+						<item>
+							<first>shadowCaster</first>
+							<second>1</second>
+						</item>
+						<item>
+							<first>shadowReceiver</first>
+							<second>0</second>
+						</item>
+					</ParameterMap>
+				</Parameters>
+				<Keywords>
+					<count>0</count>
+					<item_version>0</item_version>
+				</Keywords>
+			</second>
+		</item>
+		<item>
+			<first>Lifeformsoldier_17_sk_rokn_soldier</first>
+			<second>
+				<Name>Lifeformsoldier_17_sk_rokn_soldier</Name>
+				<Schema>DiGuyCharacter</Schema>
+				<Parameters>
+					<ParameterMap>
+						<count>4</count>
+						<item_version>0</item_version>
+						<item>
+							<first>defaultAppearance</first>
+							<second>sk_rokn_soldier</second>
+						</item>
+						<item>
+							<first>diguyCharacter</first>
+							<second>soldier_17</second>
+						</item>
+						<item>
+							<first>shadowCaster</first>
+							<second>1</second>
+						</item>
+						<item>
+							<first>shadowReceiver</first>
+							<second>0</second>
+						</item>
+					</ParameterMap>
+				</Parameters>
+				<Keywords>
+					<count>0</count>
+					<item_version>0</item_version>
+				</Keywords>
+			</second>
+		</item>
+	</myDefinitions>
+</DtModelDefinitionManager>
+</boost_serialization>
+

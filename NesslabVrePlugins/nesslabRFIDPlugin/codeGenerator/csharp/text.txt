@@ -1,0 +1,453 @@
+Namespace: 
+Include: 
+Prefix: 
+FomDefinitionFileName: C:/MAK/vrengage2.2/NesslabVrePlugins/dstNetworkPlugin/codeGenerator/SBE-Ext-FOM_v1.4.xml
+BaseName: dstAccessory
+MIMincluded: TRUE
+TemplateDir: 
+Language: csharp
+Protocol: HLA1516e
+SolutionUUID1: 1a525c86-bacf-4ca9-baf2-47ba899c7028
+SolutionUUID2: 43fc36da-d00f-4729-a513-0643e2140ee7
+ProjectUUID1: ab6d2a78-13dc-449d-880b-7ebdba8cb627
+ProjectUUID2: 980f05f4-d6e4-4e32-99f7-e69cc68c8fad
+ 
+--------------------------------------------------------------------------------
+Representations: 13
+ 
+
+Name:           HLAinteger16BE
+Type:           short
+Encoding:       16-bit two's complement signed integer. The most significant bit contains the sign.
+Boundary:       2
+Size:           16
+Endian:         Big
+Intrepretation: Integer in the range [-2^15, 2^15 - 1]
+Note:           
+
+Name:           HLAinteger32BE
+Type:           int
+Encoding:       32-bit two's complement signed integer. The most significant bit contains the sign.
+Boundary:       4
+Size:           32
+Endian:         Big
+Intrepretation: Integer in the range [-2^31, 2^31 - 1]
+Note:           
+
+Name:           HLAinteger64BE
+Type:           long
+Encoding:       64-bit two's complement signed integer first. The most significant bit contains the sign.
+            
+Boundary:       8
+Size:           64
+Endian:         Big
+Intrepretation: Integer in the range [-2^63, 2^63 - 1]
+Note:           
+
+Name:           HLAfloat32BE
+Type:           float
+Encoding:       32-bit IEEE normalized single-precision format. See IEEE Std 754-1985
+Boundary:       4
+Size:           32
+Endian:         Big
+Intrepretation: Single-precision floating point number
+Note:           
+
+Name:           HLAfloat64BE
+Type:           double
+Encoding:       64-bit IEEE normalized double-precision format. See IEEE Std 754-1985
+Boundary:       8
+Size:           64
+Endian:         Big
+Intrepretation: Double-precision floating point number
+Note:           
+
+Name:           HLAoctetPairBE
+Type:           char
+Encoding:       Assumed to be portable among devices.
+Boundary:       2
+Size:           16
+Endian:         Big
+Intrepretation: 16-bit value
+Note:           
+
+Name:           HLAinteger16LE
+Type:           short
+Encoding:       16-bit two's complement signed integer. The most significant bit contains the sign.
+Boundary:       2
+Size:           16
+Endian:         Little
+Intrepretation: Integer in the range [-2^15, 2^15 - 1]
+Note:           
+
+Name:           HLAinteger32LE
+Type:           int
+Encoding:       32-bit two's complement signed integer. The most significant bit contains the sign.
+Boundary:       4
+Size:           32
+Endian:         Little
+Intrepretation: Integer in the range [-2^31, 2^31 - 1]
+Note:           
+
+Name:           HLAinteger64LE
+Type:           long
+Encoding:       64-bit two's complement signed integer first. The most significant bit contains the sign.
+            
+Boundary:       8
+Size:           64
+Endian:         Little
+Intrepretation: Integer in the range [-2^63, 2^63 - 1]
+Note:           
+
+Name:           HLAfloat32LE
+Type:           float
+Encoding:       32-bit IEEE normalized single-precision format. See IEEE Std 754-1985
+Boundary:       4
+Size:           32
+Endian:         Little
+Intrepretation: Single-precision floating point number
+Note:           
+
+Name:           HLAfloat64LE
+Type:           double
+Encoding:       64-bit IEEE normalized double-precision format. See IEEE Std 754-1985
+Boundary:       8
+Size:           64
+Endian:         Little
+Intrepretation: Double-precision floating point number
+Note:           
+
+Name:           HLAoctetPairLE
+Type:           char
+Encoding:       Assumed to be portable among hardware devices.
+Boundary:       2
+Size:           16
+Endian:         Little
+Intrepretation: 16-bit value
+Note:           
+
+Name:           HLAoctet
+Type:           byte
+Encoding:       Assumed to be portable among hardware devices.
+Boundary:       1
+Size:           8
+Endian:         Big
+Intrepretation: 8-bit value
+Note:           
+
+ 
+--------------------------------------------------------------------------------
+Simple datatypes: 11
+ 
+
+Name:           HLAASCIIchar
+Representation: HLAoctet
+Boundary:       1
+Type:           byte
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    Standard ASCII character (see ANSI Std x3.4-1986)
+
+Name:           HLAunicodeChar
+Representation: HLAoctetPairBE
+Boundary:       2
+Type:           char
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    Unicode UTF-16 character (see The Unicode Standard, Version 3.0)
+
+Name:           HLAbyte
+Representation: HLAoctet
+Boundary:       1
+Type:           byte
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    Uninterpreted 8-bit byte
+
+Name:           HLAcount
+Representation: HLAinteger32BE
+Boundary:       4
+Type:           int
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    NA
+
+Name:           HLAseconds
+Representation: HLAinteger32BE
+Boundary:       4
+Type:           int
+Units:          s
+Accuracy:       NA
+Resolution:     NA
+Description:    NA
+
+Name:           HLAmsec
+Representation: HLAinteger32BE
+Boundary:       4
+Type:           int
+Units:          ms
+Accuracy:       NA
+Resolution:     NA
+Description:    NA
+
+Name:           HLAnormalizedFederateHandle
+Representation: HLAinteger32BE
+Boundary:       4
+Type:           int
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    The type of the normalized value of a federate handle as returned by the Normalize Federate
+               Handle service. The value is appropriate for defining the range of the HLAfederate dimension for regions
+               with this dimension.
+            
+
+Name:           HLAindex
+Representation: HLAinteger32BE
+Boundary:       4
+Type:           int
+Units:          NA
+Accuracy:       NA
+Resolution:     NA
+Description:    NA
+
+Name:           HLAinteger64Time
+Representation: HLAinteger64BE
+Boundary:       8
+Type:           long
+Units:          NA
+Accuracy:       NA
+Resolution:     1
+Description:    Standardized 64 bit integer time
+
+Name:           HLAfloat64Time
+Representation: HLAfloat64BE
+Boundary:       8
+Type:           double
+Units:          NA
+Accuracy:       NA
+Resolution:     4.9E-308
+Description:    Standardized 64 bit float time
+
+Name:           HLAoctet
+Representation: HLAoctet
+Boundary:       1
+Type:           byte
+Units:          n/a
+Accuracy:       n/a
+Resolution:     n/a
+Description:    Datatype to match representation only, added internally not present in FOM
+
+ 
+--------------------------------------------------------------------------------
+Complex datatypes: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Enumerations: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Arrays: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Fixed records: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Variant records: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Objects: 0
+ 
+
+ 
+--------------------------------------------------------------------------------
+Interactions: 2
+ 
+
+................................................................................
+UniqueId:       LogInInfo
+FullName:       HLAinteractionRoot.LogInInfo
+Name:           LogInInfo
+Descriptor:      ..... 
+Note:           
+Sharing:        PublishSubscribe
+Order:          Receive
+Transportation: HLAbestEffort
+ParentFullName: HLAinteractionRoot
+ParentName:     HLAinteractionRoot
+ParentUniqueId: 
+NumDimensions: 0
+
+NumParameters:  5
+
+	====
+	Name:              publisherType
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.LogInInfo.publisherType
+	Datatype:          unsigned short
+	Representation:    ushort
+	Type:              ushort
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+	====
+	Name:              deviceID
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.LogInInfo.deviceID
+	Datatype:          udeivceIDnsigned short
+	Representation:    class
+	Type:              udeivceIDnsigned__short
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+	====
+	Name:              serviceNumber
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.LogInInfo.serviceNumber
+	Datatype:          byte array 10
+	Representation:    class
+	Type:              byte__array__10
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+	====
+	Name:              logInName
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.LogInInfo.logInName
+	Datatype:          byte array 10
+	Representation:    class
+	Type:              byte__array__10
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+	====
+	Name:              affiliation
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.LogInInfo.affiliation
+	Datatype:          byte array
+	Representation:    class
+	Type:              byte__array
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+
+................................................................................
+UniqueId:       PowerCtrl
+FullName:       HLAinteractionRoot.PowerCtrl
+Name:           PowerCtrl
+Descriptor:      ..... 
+Note:           
+Sharing:        PublishSubscribe
+Order:          Receive
+Transportation: HLAbestEffort
+ParentFullName: HLAinteractionRoot
+ParentName:     HLAinteractionRoot
+ParentUniqueId: 
+NumDimensions: 0
+
+NumParameters:  2
+
+	====
+	Name:              powerCtrlMsg
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.PowerCtrl.powerCtrlMsg
+	Datatype:          byte
+	Representation:    class
+	Type:              byte
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       1:Off, 2:Reboot
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+	====
+	Name:              destinationSystem
+	Kind:              Unknown
+	FullName:          HLAinteractionRoot.PowerCtrl.destinationSystem
+	Datatype:          byte
+	Representation:    class
+	Type:              byte
+	Is simple:         <!ParameterIsSimple!>
+	Accuracy :         
+	AccuracyCondition: 
+	Cardinality:       1
+	CardinalityMax:    1
+	CardinalityMin:    1
+	CardinalityType:   0
+	Description:       0:ALL, 1:DST, 2:CVT, 3:CCT
+	Note:              
+	Order:             
+	Sharing:           
+	Transportation:    
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<connectionConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="">
+<!--This default configuration file only contains the minimal set of connection 
+settings. Please note that if using the same default config file for multiple applications,
+ setting application-specific connection settings may have undesired consequences.-->
+   <settings>
+      <disConnection>
+         <!--DIS Port-->
+         <disPort value="3000"/>
+         <!--Exercise ID-->
+         <exerciseId value="1"/>
+         <!--DIS Version-->
+         <disVersion value="7"/>
+         <!--Destination Address-->
+         <destAddrString value=""/>
+         <!--Use IPV6 if possible-->
+         <useIpv6 value="false"/>
+      </disConnection>
+      <!--HLA Connection Settings-->
+      <hlaConnection>
+         <!--Federate Execution Name-->
+         <execName value="MAK-ONE-2025"/>
+         <!--FED File Name-->
+         <fedFileName value="RPR_FOM_v2.0_1516-2010.xml"/>
+         <!--RPR FOM Version-->
+         <rprFomVersion value="2.0"/>
+         <!--RPR FOM Revision-->
+         <rprFomRevision value="2"/>
+         <!--NETN FOM Version-->
+         <netnFomVersion value="3.0"/>
+         <!--NETN FOM Revision-->
+         <netnFomRevision value="1"/>
+         <!--Fom Modules (HLA Evolved)-->
+         <fomModules>
+            <fomModule value = "NETN-BASE.xml"/>
+            <fomModule value = "NETN-ETR.xml"/>
+            <fomModule value = "NETN-Physical.xml"/>
+            <fomModule value = "NETN-METOC.xml"/>
+            <fomModule value = "NETN-MRM.xml"/>
+            <fomModule value = "MAK-Physical-2_evolved.xml"/>
+            <fomModule value = "MAK-Aerodrome-1_evolved.xml"/>
+            <fomModule value = "MAK-METOC-3_evolved.xml"/>
+            <fomModule value = "MAK-VRFExt-12_evolved.xml"/>
+            <fomModule value = "MAK-DIGuy-7_evolved.xml"/>
+            <fomModule value = "MAK-LgrControl-2_evolved.xml"/>
+            <fomModule value = "MAK-VRFAggregate-7_evolved.xml"/>
+            <fomModule value = "MAK-DynamicTerrain-2_evolved.xml"/>
+            <fomModule value = "MAK-VRLExt-3_evolved.xml"/>
+            <fomModule value = "MAK-DER-1_evolved.xml"/>
+            <fomModule value = "RPR-Enumerations_Experimental_IFF.xml"/>
+            <fomModule value = "RPR-MAK_Experimental_IFF-4.xml"/>
+            <fomModule value = "SBE-Ext-FOM_v1.4.xml"/>
+         </fomModules>
+      </hlaConnection>
+   </settings>
+</connectionConfig>

@@ -1,0 +1,25 @@
+shape_set prc77
+	actor = greg
+	class_type = backpack
+	auto_equipment = true
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	filename = PRC77.fbx
+	shape_attachment_data = prc77 position
+
+shape_set rok_Backpack
+	actor = greg
+	class_type = backpack 
+	auto_equipment = true
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	filename = Backpack.fbx
+	shape_attachment_data = backpack position

@@ -1,0 +1,15 @@
+hand_item_appearances.cfg
+	: Appearance 별 hand item 추가
+	  rifle_k2
+
+gesture_test_diguy_hand_l.cfg
+	: 생성한 bdm gesture 파일 추가
+
+autoload_weapon_supplemental_data.cfg
+	: custom 무기 상세 정보 데이터
+
+autoload_actor_greg_shapesets.cfg
+ 	: 생성한 hand model fbx 추가
+
+autoload_equipment.cfg
+	: additional item fbx 추가

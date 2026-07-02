@@ -1,0 +1,438 @@
+﻿  HapticPlugin.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'HapticPlugin.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'HapticPlugin.cpp'을(를) 컴파일하는 중)
+  
+  plugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+  NesslabCommon.lib(nesslabTcpServer.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+     ../nesslabHapticPlugin/build64/RelWithDebInfo/exampleHumanDamageActuatorDIS.lib 라이브러리 및 ../nesslabHapticPlugin/build64/RelWithDebInfo/exampleHumanDamageActuatorDIS.exp 개체를 생성하고 있습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64\ucrt.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  
+  라이브러리를 검색하고 있습니다.
+      C:\MAK\vrengage2.2\lib64\vreUtil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjcore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfobjparam.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfSimCore.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfmsgs.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrftasks.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\readerWriter.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vlutil.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\matrix.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfMsgTransport.lib 검색 중:
+      C:\MAK\vrlink5.10\lib64\vl.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\kernel32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\user32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\gdi32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\winspool.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\shell32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\ole32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\oleaut32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\uuid.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\comdlg32.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\advapi32.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\NesslabCommon.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\vrfStateData.lib 검색 중:
+      C:\MAK\vrengage2.2\lib64\vreVrfmodel.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\libboost_serialization-vc143-mt-x64-1_84.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\msvcprt.lib 검색 중:
+      C:\MAK\vrforces5.2d\lib64\tbb12.lib 검색 중:
+      C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64\Ws2_32.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\MSVCRT.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\OLDNAMES.lib 검색 중:
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64\vcruntime.lib 검색 중:
+  
+  라이브러리가 검색되었습니다.
+  nesslabHapticDIS.vcxproj -> C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabHapticDIS.dll
+  C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabHapticDIS.dll
+  1개 파일이 복사되었습니다.

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug HLA 1.3|x64">
+      <Configuration>Debug HLA 1.3</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug HLA 1516e|x64">
+      <Configuration>Debug HLA 1516e</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug HLA 1516|x64">
+      <Configuration>Debug HLA 1516</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release HLA 1.3|x64">
+      <Configuration>Release HLA 1.3</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release HLA 1516e|x64">
+      <Configuration>Release HLA 1516e</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release HLA 1516|x64">
+      <Configuration>Release HLA 1516</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>PowerCtrlTalk</ProjectName>
+    <ProjectGuid>{aeea67b3-0ca6-497d-a943-302b9a0539c2}</ProjectGuid>
+    <Keyword>ManagedCProj</Keyword>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+    <CLRSupport>false</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'">$(ProjectDir)Talk$(Configuration)\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'">$(ProjectName)HLA13_64d</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'">$(ProjectName)HLA1516_64d</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'">$(ProjectName)HLA1516e_64d</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'">$(ProjectName)HLA13_64</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'">$(ProjectName)HLA1516_64</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'">$(ProjectName)HLA1516e_64</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1.3|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA13;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;DtHLA=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory13_64d.lib;vlutild.lib;vlHLA13d.lib;matrixd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA13_64d.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AssemblyDebug>true</AssemblyDebug>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1.3|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA13;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;DtHLA=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory13_64.lib;vlutil.lib;vlHLA13.lib;matrix.lib;libRTI-NG_64.lib;libFedTime_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA13_64.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA1516;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;DtHLA=1;DtHLA_1516=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory1516_64d.lib;vlutild.lib;vlHLA1516d.lib;matrixd.lib;librti1516d_64.lib;libfedtime1516d_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA1516_64d.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AssemblyDebug>true</AssemblyDebug>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA1516;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;DtHLA=1;DtHLA_1516=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory1516_64.lib;vlutil.lib;vlHLA1516.lib;matrix.lib;librti1516_64.lib;libfedtime1516_64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA1516_64.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug HLA 1516e|x64'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA1516E;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;DtHLA=1;DtHLA_1516=1;DtHLA_1516_EVOLVED=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory1516e_64d.lib;vlutild.lib;vlHLA1516ed.lib;matrixd.lib;librti1516e64d.lib;libfedtime1516e64d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA1516e_64d.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AssemblyDebug>true</AssemblyDebug>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release HLA 1516e|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\include;$(MAK_RTIDIR)\include\HLA1516E;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;DtHLA=1;DtHLA_1516=1;DtHLA_1516_EVOLVED=1;RTI_USES_STD_FSTREAM;DT_USE_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libdstAccessory1516e_64.lib;vlutil.lib;vlHLA1516e.lib;matrix.lib;librti1516e64.lib;libfedtime1516e64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(SolutionDir)$(Configuration)\$(ProjectName)HLA1516e_64.exe</OutputFile>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\;$(ProjectDir)\..\..\;$(MAK_VRLDIR)\lib64;$(MAK_RTIDIR)\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="talk.cxx" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,670 @@
+## Origin Handshape ####################################################
+shape_set sk_custom_hand_default_r
+	actor = greg
+	fade_last_lod = true
+	multi_lod_filename = soldier_hand_default.dae
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 0
+	shape_attachment_data = _0_hand_r wrist_r
+	shape_suffix_lod1 = _lod1Mesh
+	shape_suffix_lod2 = _lod1Mesh
+	shape_suffix_lod3 = _lod1Mesh
+	shape_suffix_lod4 = _lod1Mesh
+	shape_suffix_lod5 = Mesh
+	shape_suffix_lod6 = Mesh
+
+shape_set sk_custom_hand_default_l
+	actor = greg
+	fade_last_lod = true
+	multi_lod_filename = soldier_hand_default.dae
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 0
+	shape_attachment_data = _0_hand_l wrist_l
+	shape_suffix_lod1 = _lod1Mesh
+	shape_suffix_lod2 = _lod1Mesh
+	shape_suffix_lod3 = _lod1Mesh
+	shape_suffix_lod4 = _lod1Mesh
+	shape_suffix_lod5 = Mesh
+	shape_suffix_lod6 = Mesh
+
+shape_set sk_custom_hand_one_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 1
+	shape_attachment_data = _1_hand_r wrist_r
+
+shape_set sk_custom_hand_one_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 1
+	shape_attachment_data = _1_hand_l wrist_l
+
+shape_set sk_custom_hand_two_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 2
+	shape_attachment_data = _2_hand_r wrist_r
+
+shape_set sk_custom_hand_two_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 2
+	shape_attachment_data = _2_hand_l wrist_l
+
+shape_set sk_custom_hand_three_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 3
+	shape_attachment_data = _3_hand_r wrist_r
+
+shape_set sk_custom_hand_three_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 3
+	shape_attachment_data = _3_hand_l wrist_l
+
+shape_set sk_custom_hand_four_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 4
+	shape_attachment_data = _4_hand_r wrist_r
+
+shape_set sk_custom_hand_four_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 4
+	shape_attachment_data = _4_hand_l wrist_l
+
+shape_set sk_custom_hand_five_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 5
+	shape_attachment_data = _5_hand_r wrist_r
+
+shape_set sk_custom_hand_five_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 5
+	shape_attachment_data = _5_hand_l wrist_l
+
+shape_set sk_custom_hand_pinch_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 6
+	shape_attachment_data = _6_hand_r wrist_r
+
+shape_set sk_custom_hand_pinch_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 6
+	shape_attachment_data = _6_hand_l wrist_l
+
+shape_set sk_custom_hand_grip_pole_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 7
+	shape_attachment_data = _7_hand_r wrist_r
+
+shape_set sk_custom_hand_grip_pole_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 7
+	shape_attachment_data = _7_hand_l wrist_l
+
+shape_set sk_custom_hand_grip_cell_phone_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 8
+	shape_attachment_data = _8_hand_r wrist_r
+
+shape_set sk_custom_hand_grip_cell_phone_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 8
+	shape_attachment_data = _8_hand_l wrist_l
+
+shape_set sk_custom_hand_relaxed_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 9
+	shape_attachment_data = _9_hand_r wrist_r
+
+shape_set sk_custom_hand_relaxed_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 9
+	shape_attachment_data = _9_hand_l wrist_l
+
+shape_set sk_custom_hand_fist_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 10
+	shape_attachment_data = _10_hand_r wrist_r
+
+shape_set sk_custom_hand_fist_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 10
+	shape_attachment_data = _10_hand_l wrist_l
+
+shape_set sk_custom_hand_point_one_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 11
+	shape_attachment_data = _11_hand_r wrist_r
+
+shape_set sk_custom_hand_point_one_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 11
+	shape_attachment_data = _11_hand_l wrist_l
+
+shape_set sk_custom_hand_point_two_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 12
+	shape_attachment_data = _12_hand_r wrist_r
+
+shape_set sk_custom_hand_point_two_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 12
+	shape_attachment_data = _12_hand_l wrist_l
+
+shape_set sk_custom_hand_point_three_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 13
+	shape_attachment_data = _13_hand_r wrist_r
+
+shape_set sk_custom_hand_point_three_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 13
+	shape_attachment_data = _13_hand_l wrist_l
+
+shape_set sk_custom_hand_point_four_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 14
+	shape_attachment_data = _14_hand_r wrist_r
+
+shape_set sk_custom_hand_point_four_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 14
+	shape_attachment_data = _14_hand_l wrist_l
+
+shape_set sk_custom_hand_point_five_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 15
+	shape_attachment_data = _15_hand_r wrist_r
+
+shape_set sk_custom_hand_point_five_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 15
+	shape_attachment_data = _15_hand_l wrist_l
+
+shape_set sk_custom_hand_rock_on_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 16
+	shape_attachment_data = _16_hand_r wrist_r
+
+shape_set sk_custom_hand_rock_on_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 16
+	shape_attachment_data = _16_hand_l wrist_l
+
+shape_set sk_custom_hand_flat_palm_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 17
+	shape_attachment_data = _17_hand_r wrist_r
+
+shape_set sk_custom_hand_flat_palm_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 17
+	shape_attachment_data = _17_hand_l wrist_l
+
+shape_set sk_custom_hand_l_shape_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 18
+	shape_attachment_data = _18_hand_r wrist_r
+
+shape_set sk_custom_hand_l_shape_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 18
+	shape_attachment_data = _18_hand_l wrist_l
+
+shape_set sk_custom_hand_hang_loose_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 19
+	shape_attachment_data = _19_hand_r wrist_r
+
+shape_set sk_custom_hand_hang_loose_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 19
+	shape_attachment_data = _19_hand_l wrist_l
+
+shape_set sk_custom_hand_thumbs_up_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 20
+	shape_attachment_data = _20_hand_r wrist_r
+
+shape_set sk_custom_hand_thumbs_up_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 20
+	shape_attachment_data = _20_hand_l wrist_l
+
+shape_set sk_custom_hand_hold_ball_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 21
+	shape_attachment_data = _21_hand_r wrist_r
+
+shape_set sk_custom_hand_hold_ball_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 21
+	shape_attachment_data = _21_hand_l wrist_l
+
+shape_set sk_custom_hand_monkey_grip_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 22
+	shape_attachment_data = _22_hand_r wrist_r
+
+shape_set sk_custom_hand_monkey_grip_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 22
+	shape_attachment_data = _22_hand_l wrist_l
+
+shape_set sk_custom_hand_cupped_open_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 23
+	shape_attachment_data = _23_hand_r wrist_r
+
+shape_set sk_custom_hand_cupped_open_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 23
+	shape_attachment_data = _23_hand_l wrist_l
+
+shape_set sk_custom_hand_cupped_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 24
+	shape_attachment_data = _24_hand_r wrist_r
+
+shape_set sk_custom_hand_cupped_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 24
+	shape_attachment_data = _24_hand_l wrist_l
+
+shape_set sk_custom_hand_cupped_closed_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 25
+	shape_attachment_data = _25_hand_r wrist_r
+
+shape_set sk_custom_hand_cupped_closed_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 25
+	shape_attachment_data = _25_hand_l wrist_l
+
+shape_set sk_custom_hand_flashlight_on_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 26
+	shape_attachment_data = _26_hand_r wrist_r
+
+shape_set sk_custom_hand_flashlight_on_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 26
+	shape_attachment_data = _26_hand_l wrist_l
+
+shape_set sk_custom_hand_flashlight_off_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 27
+	shape_attachment_data = _27_hand_r wrist_r
+
+shape_set sk_custom_hand_flashlight_off_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 27
+	shape_attachment_data = _27_hand_l wrist_l
+
+shape_set sk_custom_hand_political_point_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 28
+	shape_attachment_data = _28_hand_r wrist_r
+
+shape_set sk_custom_hand_political_point_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 28
+	shape_attachment_data = _28_hand_l wrist_l
+
+## Wedge Handshape  ####################################################
+
+shape_set sk_custom_hand_wedge_formation_r
+	actor = greg
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	filename = custom_hand_r.fbx
+	switch_name = hand_model_r
+	switch_operator = ==
+	switch_value = 29
+	shape_attachment_data = _29_hand_r wrist_r
+
+shape_set sk_custom_hand_wedge_formation_l
+	actor = greg
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	filename = custom_hand_l.fbx
+	switch_name = hand_model_l
+	switch_operator = ==
+	switch_value = 29
+	shape_attachment_data = _29_hand_l wrist_l

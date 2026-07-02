@@ -1,0 +1,88 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(nesslabTerrainSurfacePluginsSim.dir/RelWithDebInfo/)에 다른 프로젝트(nesslabTerrainSurfacePluginsSim.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  CustomMessage.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+  plugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+  SimCommmands.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+  TerrainSoilPlugin.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'TerrainSoilPlugin.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'TerrainSoilPlugin.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrfutil\profiler.h(52,9): warning C4005: 'TRACY_ENABLE': 매크로 재정의
+  (소스 파일 'TerrainSoilPlugin.cpp'을(를) 컴파일하는 중)
+      C:\MAK\vrforces5.2d\include\vrfutil\profiler.h(52,9):
+      이전에 명령줄에서 선언된 'TRACY_ENABLE'
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(328,20): error C2661: 'DtPhysicalWorld::terrainHeightAndSurface': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(328,20):
+      인수 목록 '(const DtVector, double, DtVrfChordIntersectionRecord)'을(를) 일치시키는 동안
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(384,40): warning C4927: 변환이 잘못되었습니다. 사용자 정의 변환이 암시적으로 두 번 이상 적용되었습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(384,40):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' 생성자를 호출하는 동안
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' 선언을 참조하십시오.
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(388,44): warning C4927: 변환이 잘못되었습니다. 사용자 정의 변환이 암시적으로 두 번 이상 적용되었습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(388,44):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' 생성자를 호출하는 동안
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' 선언을 참조하십시오.
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(392,33): warning C4927: 변환이 잘못되었습니다. 사용자 정의 변환이 암시적으로 두 번 이상 적용되었습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(392,33):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' 생성자를 호출하는 동안
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' 선언을 참조하십시오.
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(396,42): warning C4927: 변환이 잘못되었습니다. 사용자 정의 변환이 암시적으로 두 번 이상 적용되었습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSoilPlugin.cpp(396,42):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )' 생성자를 호출하는 동안
+          with
+          [
+              _Elem=char
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' 선언을 참조하십시오.
+  
+  TerrainSlopePlugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'TerrainSlopePlugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'TerrainSlopePlugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrfutil\profiler.h(52,9): warning C4005: 'TRACY_ENABLE': 매크로 재정의
+  (소스 파일 'TerrainSlopePlugin.cxx'을(를) 컴파일하는 중)
+      C:\MAK\vrforces5.2d\include\vrfutil\profiler.h(52,9):
+      이전에 명령줄에서 선언된 'TRACY_ENABLE'
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSlopePlugin.cxx(243,21): error C2661: 'DtPhysicalWorld::closestTerrainLocation': 오버로드된 함수에서 2개의 인수를 사용하지 않습니다.
+      C:\MAK\src\vre\NesslabVrePlugins\nesslabTerrainSurfacePlugins\nesslabTerrainSurfacePluginsSim\TerrainSlopePlugin.cxx(243,21):
+      인수 목록 '(const DtVector, DtVrfChordIntersectionRecord)'을(를) 일치시키는 동안
+  
+  코드를 생성하고 있습니다...

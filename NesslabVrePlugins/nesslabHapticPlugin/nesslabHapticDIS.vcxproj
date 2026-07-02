@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Unoptimized|x64">
+      <Configuration>Unoptimized</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{18394760-9536-3D70-8C33-CD9AD984C1F1}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>nesslabHapticDIS</ProjectName>
+    <CudaToolkitCustomDir>E:/engineering-mirror/3rdParty/libraries/CUDA/11.7/win64/</CudaToolkitCustomDir>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)/Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">..\plugins64\vrForces\release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">exampleHumanDamageActuatorDIS.dir/RelWithDebInfo/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">nesslabHapticDIS</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">..\..\plugins64\vrForces\release\unoptimized\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleHumanDamageActuatorDIS.dir/Unoptimized/</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">exampleHumanDamageActuatorDIS</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">.dll</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;$(MAK_VREDIR)/include;$(MAK_VREDIR)/include/vrfExtensions;$(MAK_VREDIR)/include/utilities</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;DtDIS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="RelWithDebInfo";exampleHumanDamageActuatorDIS_EXPORTS;BOOST_LIB_DIAGNOSTIC;BOOST_ALL_NO_LIB</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;DtDIS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"RelWithDebInfo/";exampleHumanDamageActuatorDIS_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+xcopy /Y "$(TargetPath)" "$(MAK_VREDIR)\plugins64\vrForces\release"</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreUtil.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;vl.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;NesslabCommon.lib;vrfStateData.lib;vreVrfmodel.lib;libboost_serialization-vc143-mt-x64-1_84.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);$(MAK_VREDIR)/lib;$(MAK_VREDIR)/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);$(MAK_VREDIR)/lib64;$(MAK_VREDIR)/lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64 /VERBOSE:LIB</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../nesslabHapticPlugin/build64/RelWithDebInfo/exampleHumanDamageActuatorDIS.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\NesslabVrePlugins\bin64/RelWithDebInfo/nesslabHapticDIS.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Unoptimized|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4267;4311;4312;4275;4675;4250</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;DtDIS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR="Unoptimized";exampleHumanDamageActuatorDIS_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;NOMINMAX;RELWITHDEBUG;MAK_RELWITHDEBUG;MAK_UNOPTIMIZED;DtDIS=1;BOOST_SIGNALS_DYN_LINK=1;BOOST_FILESYSTEM_DYN_LINK=1;BOOST_FILESYSTEM_VERSION=3;BOOST_OPTIONAL_USE_OLD_DEFINITION_OF_NONE=1;BOOST_NO_RVALUE_REFERENCES=1;_SCL_SECURE_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;NIGHTLYBUILD;BOOST_NO_RVALUE_REFERENCES;DT_USE_DLL;DT_VRF_DLL_BUILD;DT_VRF_PLUGIN_EXPORTS;BUILDING_PLUGIN;LUABIND_DYNAMIC_LINK;OCULUS_OS_SUPPORTED;_WIN64;OPENVR_OS_SUPPORTED;CMAKE_INTDIR=/"Unoptimized/";exampleHumanDamageActuatorDIS_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>$(MAK_VRFDIR)/include;$(MAK_VRLDIR)/include;../../include;../../include/vrfExtensions;../../include/utilities;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>
+      </Message>
+      <Command>setlocal
+echo xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+xcopy "$(TargetPath)" ..\..\plugins64\vrForces\release /y /q
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>vreVrfmodel.lib;vrfmodel.lib;vrfobjcore.lib;vrfobjparam.lib;vrfSimCore.lib;vrfmsgs.lib;vrftasks.lib;vrfutil.lib;readerWriter.lib;vlutil.lib;matrix.lib;vrfMsgTransport.lib;vl.lib;vreUtil.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(MAK_VRFDIR)/lib64;$(MAK_VRFDIR)/lib64/$(Configuration);/lib;/lib/$(Configuration);$(MAK_VRLDIR)/lib64;$(MAK_VRLDIR)/lib64/$(Configuration);../../lib64;../../lib64/$(Configuration);/lib64;/lib64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>../../examples/exampleHumanDamageActuator/build64/Unoptimized/exampleHumanDamageActuatorDIS.lib</ImportLibrary>
+      <LargeAddressAware>true</LargeAddressAware>
+      <ProgramDataBaseFile>..\..\bin64/Unoptimized/exampleHumanDamageActuatorDIS.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+    <CudaLink>
+      <AdditionalOptions>-forward-unknown-to-host-compiler -Wno-deprecated-gpu-targets </AdditionalOptions>
+      <PerformDeviceLink>false</PerformDeviceLink>
+    </CudaLink>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="HapticPlugin.cpp" />
+    <ClCompile Include="plugin.cxx" />
+    <ClInclude Include="HapticPlugin.h" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)/Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,4 @@
+category,rank,topLevelTag,iconFilename,visible,organize on list view,display name,R,G,B,A
+gimbal,100,0,,1,0,,0,0,0,0,
+laser-designator,100,0,,1,0,,0,0,0,0,
+laser-guided-launcher,100,0,,1,0,,0,0,0,0,

@@ -1,0 +1,90 @@
+﻿  CustomMessage.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+  MyHumanMovementActuator.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../nesslabHumanMovementPlugins/MyHumanMovementActuator.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../nesslabHumanMovementPlugins/MyHumanMovementActuator.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\src\vre\NesslabVrePlugins\nesslabHumanMovementPlugins\MyHumanMovementActuator.cpp(460,38): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MAK\src\vre\NesslabVrePlugins\nesslabHumanMovementPlugins\MyHumanMovementActuator.cpp(460,25): warning C4244: '초기화 중': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MAK\src\vre\NesslabVrePlugins\nesslabHumanMovementPlugins\MyHumanMovementActuator.cpp(476,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MAK\src\vre\NesslabVrePlugins\nesslabHumanMovementPlugins\MyHumanMovementActuator.cpp(477,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(232,10): warning C4996: 'DtString::operator const char *': Use c_str() instead.
+  (소스 파일 '../nesslabHumanMovementPlugins/MyHumanMovementActuator.cpp'을(를) 컴파일하는 중)
+      C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(232,10):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\MAK\vrforces5.2d\include\features\featureContext.h(300,59):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtQueueLoadingFeatureSet<MAKVRinTerra::DtAreaFeatureSet>'에 대한 참조를 확인하세요.
+          C:\MAK\vrforces5.2d\include\features\asyncLoadingFeatureSet.h(163,16):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtAsyncLoadingFeatureSet<FS>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtAreaFeatureSet
+          ]
+          C:\MAK\vrforces5.2d\include\features\asyncLoadingFeatureSet.h(121,56):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+          C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(577,16):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtFeatureSetWrapperTemplate<MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>,FS,Inner>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,
+              Inner=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+          C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(221,19):
+          클래스 템플릿 멤버 함수 'MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature> *MAKVRinTerra::DtFeatureSetWrapperTemplate<MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>,FS,Inner>::filter(const MAKVRinTerra::DtQuery &,const boost::optional<MAKVRinTerra::DtFeatureGeometry> &,MAKVRinTerra::DtLoadType) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,
+              Inner=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+  
+  plugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\vrforces5.2d\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../nesslabHumanMovementPlugins/plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../nesslabHumanMovementPlugins/plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(232,10): warning C4996: 'DtString::operator const char *': Use c_str() instead.
+  (소스 파일 '../nesslabHumanMovementPlugins/plugin.cxx'을(를) 컴파일하는 중)
+      C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(232,10):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\MAK\vrforces5.2d\include\features\featureContext.h(300,59):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtQueueLoadingFeatureSet<MAKVRinTerra::DtAreaFeatureSet>'에 대한 참조를 확인하세요.
+          C:\MAK\vrforces5.2d\include\features\asyncLoadingFeatureSet.h(163,16):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtAsyncLoadingFeatureSet<FS>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtAreaFeatureSet
+          ]
+          C:\MAK\vrforces5.2d\include\features\asyncLoadingFeatureSet.h(121,56):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+          C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(577,16):
+          컴파일되는 클래스 템플릿 인스턴스화 'MAKVRinTerra::DtFeatureSetWrapperTemplate<MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>,FS,Inner>'에 대한 참조를 확인하세요.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,
+              Inner=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+          C:\MAK\vrforces5.2d\include\features\featureSetWrappers.h(221,19):
+          클래스 템플릿 멤버 함수 'MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature> *MAKVRinTerra::DtFeatureSetWrapperTemplate<MAKVRinTerra::DtFeatureSetWrapper<MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,std::shared_ptr,FS>,FS,Inner>::filter(const MAKVRinTerra::DtQuery &,const boost::optional<MAKVRinTerra::DtFeatureGeometry> &,MAKVRinTerra::DtLoadType) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              FS=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>,
+              Inner=MAKVRinTerra::DtFeatureSetTemplate<MAKVRinTerra::DtAreaFeature>
+          ]
+  
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'TracyProfiler.lib' 파일을 열 수 없습니다.

@@ -1,0 +1,2310 @@
+﻿  plugin.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(128,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(129,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(130,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(131,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(132,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(133,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(134,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(135,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(136,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(105,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(114,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(59,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(64,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(69,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(88,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(95,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(103,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(101,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(113,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(130,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(37,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(47,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(54,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(66,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(73,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(86,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(92,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(110,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(116,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(121,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(126,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(134,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(139,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(144,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(151,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(161,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(167,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(173,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(179,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(189,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(194,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(205,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(214,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(222,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(245,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(258,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(269,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(281,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(294,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(303,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(313,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(331,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(338,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(346,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(353,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(360,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(367,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(375,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(383,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(398,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(411,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(418,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(433,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(441,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(448,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(456,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(462,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(490,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(496,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(50,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(70,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(83,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(112,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(120,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(147,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(164,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(177,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(188,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(211,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(221,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(242,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(259,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(267,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(276,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(285,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(293,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(302,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(310,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(348,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(361,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(372,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(386,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(410,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(423,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(435,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(450,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(461,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(472,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(495,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(507,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(523,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(538,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(554,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(569,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(584,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(597,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(610,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(625,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(638,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(668,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(681,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(696,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(713,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(728,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(744,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(761,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(777,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(794,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(809,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(823,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(838,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(853,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(866,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(882,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(895,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(905,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(917,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(928,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(943,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(958,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(973,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(988,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1002,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1012,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1022,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1031,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1040,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1050,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1062,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1073,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1088,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1118,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1141,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1156,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1175,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1196,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1213,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1231,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1266,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1282,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1298,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1317,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1354,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1362,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1371,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1380,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1408,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1417,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1436,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1447,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1458,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1487,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1497,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1508,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1519,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1528,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1537,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1546,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1556,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1567,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1576,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1585,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1594,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1603,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1615,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1629,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1643,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1660,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1670,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1680,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1690,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1700,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1710,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1720,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1730,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1741,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1749,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1755,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1762,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1771,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1779,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1787,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1795,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1803,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1811,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1819,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1827,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1835,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1843,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassadorFactory.h(46,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'plugin.cxx'을(를) 컴파일하는 중)
+  
+  Skeleton.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(128,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(129,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(130,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(131,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(132,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(133,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(134,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(135,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(136,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(105,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(114,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(59,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(64,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(69,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(88,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(95,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(103,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(101,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(113,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(130,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(37,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(47,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(54,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(66,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(73,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(86,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(92,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(110,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(116,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(121,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(126,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(134,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(139,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(144,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(151,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(161,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(167,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(173,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(179,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(189,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(194,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(205,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(214,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(222,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(245,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(258,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(269,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(281,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(294,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(303,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(313,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(331,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(338,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(346,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(353,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(360,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(367,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(375,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(383,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(398,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(411,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(418,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(433,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(441,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(448,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(456,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(462,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(490,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(496,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(50,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(70,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(83,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(112,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(120,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(147,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(164,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(177,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(188,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(211,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(221,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(242,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(259,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(267,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(276,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(285,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(293,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(302,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(310,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(348,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(361,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(372,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(386,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(410,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(423,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(435,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(450,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(461,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(472,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(495,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(507,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(523,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(538,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(554,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(569,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(584,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(597,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(610,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(625,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(638,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(668,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(681,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(696,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(713,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(728,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(744,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(761,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(777,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(794,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(809,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(823,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(838,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(853,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(866,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(882,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(895,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(905,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(917,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(928,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(943,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(958,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(973,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(988,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1002,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1012,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1022,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1031,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1040,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1050,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1062,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1073,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1088,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1118,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1141,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1156,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1175,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1196,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1213,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1231,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1266,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1282,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1298,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1317,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1354,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1362,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1371,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1380,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1408,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1417,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1436,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1447,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1458,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1487,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1497,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1508,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1519,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1528,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1537,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1546,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1556,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1567,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1576,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1585,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1594,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1603,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1615,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1629,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1643,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1660,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1670,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1680,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1690,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1700,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1710,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1720,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1730,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1741,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1749,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1755,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1762,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1771,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1779,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1787,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1795,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1803,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1811,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1819,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1827,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1835,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1843,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassadorFactory.h(46,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Skeleton.cxx'을(를) 컴파일하는 중)
+  
+  SkBoundingVolume.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(128,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(129,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(130,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(131,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(132,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(133,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(134,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(135,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\Handle.h(136,1): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(105,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(114,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTime.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(59,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(64,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(69,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(88,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(95,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeFactory.h(103,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(57,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(62,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(68,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(74,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(79,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(84,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(89,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(94,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(101,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(113,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(122,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\LogicalTimeInterval.h(130,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(37,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(47,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(54,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(66,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(73,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(80,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(86,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(92,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(110,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(116,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(121,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(126,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(134,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(139,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(144,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(151,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(161,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(167,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(173,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(179,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(189,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(194,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(205,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(214,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(222,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(245,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(258,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(269,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(281,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(294,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(303,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(313,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(331,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(338,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(346,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(353,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(360,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(367,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(375,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(383,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(398,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(411,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(418,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(433,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(441,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(448,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(456,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(462,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(490,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\FederateAmbassador.h(496,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(50,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(60,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(70,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(83,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(97,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(112,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(120,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(147,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(164,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(177,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(188,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(200,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(211,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(221,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(233,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(242,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(259,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(267,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(276,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(285,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(293,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(302,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(310,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(324,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(348,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(361,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(372,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(386,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(410,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(423,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(435,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(450,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(461,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(472,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(484,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(495,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(507,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(523,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(538,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(554,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(569,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(584,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(597,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(610,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(625,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(638,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(668,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(681,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(696,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(713,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(728,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(744,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(761,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(777,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(794,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(809,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(823,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(838,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(853,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(866,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(882,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(895,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(905,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(917,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(928,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(943,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(958,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(973,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(988,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1002,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1012,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1022,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1031,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1040,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1050,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1062,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1073,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1088,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1102,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1118,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1129,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1141,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1156,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1175,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1196,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1213,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1231,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1250,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1266,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1282,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1298,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1317,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1336,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1354,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1362,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1371,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1380,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1390,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1399,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1408,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1417,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1426,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1436,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1447,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1458,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1468,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1478,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1487,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1497,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1508,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1519,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1528,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1537,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1546,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1556,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1567,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1576,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1585,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1594,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1603,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1615,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1629,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1643,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1652,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1660,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1670,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1680,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1690,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1700,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1710,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1720,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1730,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1741,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1749,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1755,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1762,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1771,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1779,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1787,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1795,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1803,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1811,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1819,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1827,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1835,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassador.h(1843,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\makRti5.0.1\include\HLA1516E\RTI\RTIambassadorFactory.h(46,13): warning C5040: 동적 예외 사양은 C++14 및 이전 버전에서만 유효합니다. noexcept(false)로 취급합니다.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTaskState.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+C:\MAK\vrforces5.2k\include\vrftasks\simTask.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'SkBoundingVolume.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  NesslabCommon.lib(nesslabUdpServer.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+     ../nesslabSkeletonPlugin/build64/RelWithDebInfo/nesslabSkeletonPluginHLA1516e.lib 라이브러리 및 ../nesslabSkeletonPlugin/build64/RelWithDebInfo/nesslabSkeletonPluginHLA1516e.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  nesslabSkeletonPluginHLA1516e.vcxproj -> C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabSkeleton.dll
+  C:\MAK\src\vre\NesslabVrePlugins\plugins64\vrForces\release\nesslabSkeleton.dll
+  1개 파일이 복사되었습니다.
