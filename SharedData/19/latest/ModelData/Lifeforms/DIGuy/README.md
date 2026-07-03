@@ -81,4 +81,24 @@
 >    display_name = 1_greg_07_stand_ready :  화면에서 나왔으면 하는 애니메이션 이름
 > ```
 #### 2. custom 업로드
+>#####config
+> `<autoload_actor_greg_shapesets_@@@.cfg>`
+>  : 추가한 3D 모델에 대한 config
+>    수신호(Hand Model) 추가
+> ```c
+> shape_set sk_rok_hand_one_r
+>   actor = greg
+>   filename = custom_hand_poses.dae
+>   filename = custom_hand_poses.dae
+>   filename = custom_hand_poses.dae
+>   filename = custom_hand_poses.dae
+>   switch_name = hand_model_r
+>   switch_operator = ==
+>   switch_value = 1                            :   해당 swith_value로 custom_hand_poses.dae 속 여러 모델 변환 가능
+>   shape_attachment_data = _1_hand_r wrist_r   :   shape_attachment_data <실제 모델 속 하이어라키 명> <diguy 객체에 부작할 관절 명>
+> ...  
+> ```
 
+#### 3. geometry 업로드
+> 우리가 Appearance를 Custom할때 사용하는 base dae파일들의 cache를 함께 업로드 해줘야함
+> \* Mak사 기본 리소스에 추가한 Appearance 설정이 들어가야 정상동작함
